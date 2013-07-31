@@ -1,0 +1,33 @@
+<p>
+    This release adds some great new features, such as:
+</p>
+<ul>
+    <li>Compound nodes (i.e. nodes within nodes), thanks to the
+    <a href="http://www.cs.bilkent.edu.tr/~ivis" rel="external">i-Vis Information Visualization Research Group</a>
+    of <a href="http://www.bilkent.edu.tr/index.html" rel="external">Bilkent University</a>.</li>
+    <li>The new <code>addElements()</code> function is much faster than using <code>addNode()</code> and <code>addEdge()</code> to add many elements.</li>
+    <li>Filter elements by ID, which is faster.</li>
+    <li>And more! See the release notes for more details.</li>
+</ul>
+<div class="relase_details">
+    <ul class="new_features">
+        <li><span class="bug_id">2461</span>: Filter nodes/edges by ID (new API function).</li>
+        <li><span class="bug_id">2462</span>: Add multiple nodes/edges (new API function).</li>
+        <li><span class="bug_id">2463</span>: Add "nodeAttr" option to sif function.</li>
+        <li><span class="bug_id">2481</span>: Add "nodeAttr" and "interactionAttr" options to exportNetwork() function.</li>
+        <li><span class="bug_id">2585</span>: dragstart &amp; dragstop events.</li>
+        <li><span class="bug_id">2591</span>: Autosize node according to label.</li>
+        <li><span class="bug_id">2592</span>: Compound nodes.</li>
+        <li><span class="bug_id">2601</span>: Add zIndex to Node and Edge.</li>
+    </ul>
+    <ul class="bug_fixes">
+        <li><span class="bug_id">2480</span>: Handle List-type attributes when exporting to GraphML.</li>
+        <li><span class="bug_id">2552</span>: CytoscapeWeb edge filtering bug.</li>
+        <li><span class="bug_id">2571</span>: Error sizing nodes when layout changes.</li>
+        <li><span class="bug_id">2576</span>: When adding field, default value null is replaced by 0.</li>
+        <li><span class="bug_id">2587</span>: Edge end does not intercept ellipse node border when the edge is a loop.</li>
+        <li><span class="bug_id">2588</span>: Restore zoom from XGMML.</li>
+        <li><span class="bug_id">2590</span>: XGMML: Restore and save view center correctly.</li>
+        <li><span class="bug_id">2602</span>: Added merged edge cannot be selected.</li>
+    </ul>
+</div>

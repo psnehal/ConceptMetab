@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24029/cytoscapeweb/trunk/website/src/php/content/documentation/api/0.7.2/mappers
+END
+org.cytoscapeweb.PassthroughMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/24029/cytoscapeweb/trunk/website/src/php/content/documentation/api/0.7.2/mappers/org.cytoscapeweb.PassthroughMapper.php
+END
+org.cytoscapeweb.CustomMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/24029/cytoscapeweb/trunk/website/src/php/content/documentation/api/0.7.2/mappers/org.cytoscapeweb.CustomMapper.php
+END
+org.cytoscapeweb.DiscreteMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/24029/cytoscapeweb/trunk/website/src/php/content/documentation/api/0.7.2/mappers/org.cytoscapeweb.DiscreteMapper.php
+END
+org.cytoscapeweb.ContinuousMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/24029/cytoscapeweb/trunk/website/src/php/content/documentation/api/0.7.2/mappers/org.cytoscapeweb.ContinuousMapper.php
+END

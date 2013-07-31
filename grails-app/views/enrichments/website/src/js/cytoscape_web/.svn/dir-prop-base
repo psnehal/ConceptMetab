@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 71
+AC_OETags.min.js
+cytoscapeweb-file.js
+cytoscapeweb.min.js
+json2.min.js
+
+END
