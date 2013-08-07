@@ -26,7 +26,48 @@
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
 
+        google.visualization.events.addListener(chart, 'select', selectHandler);
+
+        function selectHandler() {
+            var selection = chart.getSelection();
+            var message = '';
+            for (var i = 0; i < selection.length; i++) {
+              var item = selection[i];
+              if (item.row != null && item.column != null) {
+                  console.log('1');
+                var str = data.getFormattedValue(item.row, item.column);
+                message += '{row:' + item.row + ',column:' + item.column + '} = ' + str + '\n';
+              } else if (item.row != null) {
+                  console.log('2');
+                var str = data.getFormattedValue(item.row, 0);
+                message += str+ '\n';
+              } else if (item.column != null) {
+                  console.log('3');
+                var str = data.getFormattedValue(0, item.column);
+                message += '{row:none, column:' + item.column + '}; value (row 0) = ' + str + '\n';
+              }
+            }
+            if (message == '') {
+              message = 'nothing';
+            }
+           // alert('You selected ' + message);
+            var first = getUrlVars()["id1"];
+            var second = getUrlVars()["id2"];
+            var q = getUrlVars()["q"];
+           console.log("q ="+ q);
+            window.open('createDb?id='+q+'&db='+message,'Popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no, width=620,height=500,left=430,top=23');
+          }
+     
+
         
+      }
+
+      function getUrlVars() {
+          var vars = {};
+          var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+              vars[key] = value;
+          });
+          return vars;
       }
     </script>
   </head>

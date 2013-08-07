@@ -48,7 +48,9 @@ body {
 }
 
 #grailsLogo {
-	background-color: #abbf78;
+	background-color: #FFFFFF;
+	width: 840px;
+	margin-top: 20px;
 }
 
 /* replace with .no-boxshadow body if you have modernizr available */
@@ -606,7 +608,7 @@ a.skip {
 
 
 #header {
-  background: #050500;
+  background: #FFFFFF;
   padding: 2em 1em 2em 1em;
   margin-bottom: 1em;
 }

@@ -9,11 +9,13 @@
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-<link rel="stylesheet" href="/resources/demos/style.css" />
+
+<link rel="stylesheet" href="${resource(dir: 'css', file: 'createChart.css')}" type="text/css">
+
 <script>
 $(function() {
 
-	$( "#tabs" ).tabs();
+	$( "#tabsF" ).tabs();
 
 	var first = getUrlVars()["id1"];
     var second = getUrlVars()["id2"];
@@ -224,11 +226,7 @@ function getUrlVars() {
                 
                 // you could also use other formats (e.g. GraphML) or grab the network data via AJAX
                
-				var t = ${check};
-				console.log(t)
-               // var networ_json = { 
-				// data :  ${check}
-                  //     };
+				
 
 				 var networ_json = {
                     // you need to specify a data schema for custom attributes!
@@ -274,9 +272,9 @@ function getUrlVars() {
 		                    edges: {
 		                    	width: {
 		                            defaultValue: 1,
-		                            continuousMapper: { attrName: "thick", minValue: 1, maxValue: 10 }
+		                            continuousMapper: { attrName: "thick", minValue: 1, maxValue: 5 }
 		                        },
-		                        color: "#0B94B1"
+		                        color: "#888888"
 		                        	
 		                    }
 		                };
@@ -410,7 +408,7 @@ function getUrlVars() {
                    // edgeLabelsVisible: true,
                     
                     // let's try another layout
-                    layout: "ForceDirected",
+                  
                     
                     // set the style at initialisation
                     visualStyle: visual_style,
@@ -423,187 +421,171 @@ function getUrlVars() {
             };
         </script>
         
-        
-        
+     
         
 </head>
 <body>
-
-
-
-<div style ="width:100% color:#000000">
-<p><g:link class="header-main" controller="Concepts">Conceptmetab</g:link></p>
-  <p class="header-sub">Metabolic Network</p>    
+  <div id="header">
+  <p><g:link class="header-main" controller="Concepts">Conceptmetab</g:link></p>
+  <p class="header-sub">Metabolic Network</p>
 </div>
-
-<div >
- 	<div id="cytoscapeweb" style="width: 70%; float:left ;  border:1px solid">
-		            Cytoscape Web will replace the contents of this div with your graph.
-	 </div>
-    
-    
-    <div style="width: 29%; float:right ;  border:1px solid ;">
-    
-    
-    
-    <div id="tabs">
-  <ul>
-    <li><a href="#tabs-1">Input pval </a></li>
-    <li><a href="#tabs-2">p-q vertical</a></li>
-    <li><a href="#tabs-3">Database</a></li>
-     <li><a href="#tabs-4">p-q horizontal</a></li>
-  </ul>
-  <div id="tabs-1">
-  
-  	
-      	 <div id="note">
-		 	<p>Click nodes or edges.</p>
-		 </div>
-		 
-		 
-		   <div class ="searchm" align="left">
-				    <p> enter pval to see result</p>      
-				         <g:form action="filterSlider" method="get">
-				                <g:textField name="id2" id="id2" value=""/>
-				                 <g:hiddenField name="id1"  value="1.45e-323"/>
-				                  <g:hiddenField name="fil"  value="pval"/>
-				               <g:hiddenField name="q" value="${params.q}" />
-				                <g:submitButton name="pval"/>
-				            </g:form> 
-				            </div>
-				            
-				            
-				            
-		 
-		 
-  </div>
-  <div id="tabs-2">
-       <label for="amount-backwards">Pvalue range:	</label>		
-		<input type="text" id="amount-backwards" style="border:0; color:#f6931f; font-weight:bold;" />
-		</p>
-		<div id="slider-verticalbackwards" style="height:200px;"></div>
-
-
-		<label for="amount-backwards">Qvalue range:	</label>		
-		<input type="text" id="amount-slider-qval-back" style="border:0; color:#f6931f; font-weight:bold;" />
-		</p>
-		<div id="slider-qval-back" style="height:200px;"></div>
-  </div>
-		  <div id="tabs-3">
-		 			<div>
-				<table  align="center">
-				<tr>
-					<td>
-					<b>Database</b>
-					</td>
-					<td >
-					<b>Color</b>
-					</td>		
-				</tr>
-				<tr>
-					<td>
-					"GOBP"
-					</td>
-					<td style="background-color:#FF0000">
-					</td>		
-				</tr>
-				<tr>
-					<td> "GOCC"
-					</td>
-						<td style="background-color:#FFFF00">
-				
-					</td>		
-				</tr>
-				<tr>
-					<td> "GOMF"
-					</td>
-					<td style="background-color: #64FE2E">
-					</td>		
-				</tr>
-				<tr>
-					<td>"Enzyme"
-					</td>
-					<td style="background-color:#0000FF">
-					</td>		
-				</tr>
-				<tr>
-					<td>"KEGG"
-					</td>
-					<td style="background-color: #CC2EFA">
-					</td>		
-				</tr>
-				<tr>
-					<td>  "MeSH"
-					</td>
-					<td style="background-color:#CCCCFF" >
-					</td>		
-				</tr>
-				<tr>
-					<td>   "Cluster"
-					</td>
-					<td style="background-color:#000000">
-					</td>		
-				</tr>
-				
-				
-				
-				</table>
+        
+   	<div id="col1">
+			<div id="cytoscapeweb" style="width: 69%; float:left ;  border:0.1px solid">
+			Cytoscape Web will replace the contents of this div with your graph.
+			</div>
+			
+			<g:if test="${flash.message}">
+			<div class="message" role="status">${flash.message}</div>
+			</g:if>
+	</div>	    
+		    
+	<div style="width: 30%; float:right ;  border:1px solid ;">
+		    
+		  <div id="tabsF">
+		  <ul>
+		    <li><a href="#tabs-1">Input pval </a></li>
+		    <li><a href="#tabs-2">p-q vertical</a></li>
+		    <li><a href="#tabs-3">Database</a></li>
+		     <li><a href="#tabs-4">p-q horizontal</a></li>
+		  </ul>
 		
-			<p> is id ${ params.q}</p>
-		
-		  	<g:include action=  "createChart" id = "${ params.q}"/>
 		  
-		 	 ${dbc}
-		
-				</div> 
-				</div>
+		  
+		  <div id="tabs-1">
+		      	 <div id="note">
+				 	<p>Click nodes or edges.</p>
+				 </div>
+				   <div class ="searchm" align="left">
+						    <p> enter pval to see result</p>      
+						         <g:form action="filterSlider" method="get">
+						                <g:textField name="id2" id="id2" value=""/>
+						                 <g:hiddenField name="id1"  value="1.45e-323"/>
+						                  <g:hiddenField name="fil"  value="pval"/>
+						               <g:hiddenField name="q" value="${params.q}" />
+						                <g:submitButton name="pval"/>
+						           </g:form> 
+				   </div>
+				 
+		  </div>
+		  
+		  <div id="tabs-2">
+		       <label for="amount-backwards">Pvalue range:	</label>		
+				<input type="text" id="amount-backwards" style="border:0; color:#f6931f; font-weight:bold;" />
+				<div id="slider-verticalbackwards" style="height:200px;"></div>
+				<label for="amount-backwards">Qvalue range:	</label>		
+				<input type="text" id="amount-slider-qval-back" style="border:0; color:#f6931f; font-weight:bold;" />
+				<div id="slider-qval-back" style="height:200px;"></div>
+		  </div>
+		  
+		  
+		<div id="tabs-3">
+			<div>
+						<table  align="center">
+						<tr>
+							<td>
+							<b>Database</b>
+							</td>
+							<td >
+							<b>Color</b>
+							</td>		
+						</tr>
+						<tr>
+							<td>
+							"GOBP"
+							</td>
+							<td style="background-color:#FF0000">
+							</td>		
+						</tr>
+						<tr>
+							<td> "GOCC"
+							</td>
+								<td style="background-color:#FFFF00">
+						
+							</td>		
+						</tr>
+						<tr>
+							<td> "GOMF"
+							</td>
+							<td style="background-color: #64FE2E">
+							</td>		
+						</tr>
+						<tr>
+							<td>"Enzyme"
+							</td>
+							<td style="background-color:#0000FF">
+							</td>		
+						</tr>
+						<tr>
+							<td>"KEGG"
+							</td>
+							<td style="background-color: #CC2EFA">
+							</td>		
+						</tr>
+						<tr>
+							<td>  "MeSH"
+							</td>
+							<td style="background-color:#CCCCFF" >
+							</td>		
+						</tr>
+						<tr>
+							<td>   "Cluster"
+							</td>
+							<td style="background-color:#000000">
+							</td>		
+						</tr>
+						
+						
+						
+						</table>
 				
-		<div id="tabs-4">
-		 <div div style="border:1px ">
-	         <p id="para" />
-	         <label for="amount">Pvalue range:(1 : 1e-323) (0-323)</label>
-	         <input type="text" id="amount" style="border: 0; color: #f6931f; font-weight: bold;" />
-         </div>
-
-		<div id="slider-range"></div>
-		
-		<div id = "dialog" title="Basic dialog">
-		  <p></p>
-		</div>
-		
-		<div style="border:1px ">
-		  <p id="qval" />
-         <label for="qval">Qvalue range:</label>
-         <input type="text" id="qval" style="border: 0; color: #f6931f; font-weight: bold;" />
-		 <div id="qval-range"></div>
-		</div>
-		
-		<p>   
+					<p> is id ${ params.q}</p>
+				
+				  	<g:include action=  "createChart" id = "${ params.q}"/>
 				  
-      </div>		
-  
-   </div>
-</div>
-
-
-
-
+				 	 ${dbc}
+				
+			</div> 
+			</div>
+						
+		    <div id="tabs-4">
+					 <div div style="border:1px ">
+				         <p id="para" />
+				         <label for="amount">Pvalue range:(1 : 1e-323) (0-323)</label>
+				         <input type="text" id="amount" style="border: 0; color: #f6931f; font-weight: bold;" />
+			         </div>
+					<div id="slider-range"></div>
+				    <div id = "dialog" title="Basic dialog"></div>
+				
+				<div style="border:1px ">
+				  <p id="qval" />
+		         <label for="qval">Qvalue range:</label>
+		         <input type="text" id="qval" style="border: 0; color: #f6931f; font-weight: bold;" />
+				 <div id="qval-range"></div>
+				</div>  
+		      </div>  </div>
+		   </div>
 
 		
 		
-
-
-
-		
-	</div>
-	
-	
-	
-
 		
 		
 		
-    
+				
+				
+		
+		
+		
+				
+			</div>
+			
+			
+			
+		
+				
+				
+				
+		    
     
 </body>
 </html>

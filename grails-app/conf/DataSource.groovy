@@ -16,7 +16,7 @@ environments {
         dataSource {
            //  dbCreate = "update" // one of 'create', 'create-drop', 'update', 'validate', ''
             //url = "jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000"
-			url = "jdbc:mysql://localhost/test?useUnicode=yes&characterEncoding=UTF-8"
+			url = "jdbc:mysql://127.0.0.1:33066/test?useUnicode=yes&characterEncoding=UTF-8"
 			username = "snehal"
 			password = "snehal"
         }

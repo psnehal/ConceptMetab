@@ -7,21 +7,41 @@ class ConceptsController {
 	
 	
 	def beforeInterceptor =
-	[action:this.&auth, except:["index", "list", "show", "create","atom","getName", "search","opt","ajaxFindCity"]]
+	[action:this.&auth, except:["index", "list", "show", "create","atom","getName", "search","opt","ajaxFindCity","checkQ","main"]]
 
 	 def search = {
 		  //render Entry.search(params.q, params)
 		// render Concepts.search(params.q, params)
 		 println(params)
-		 def searchResults = Concepts.search(params.q, params)
-		 flash.message = "${searchResults.total} results found for search: ${params.q}"
-		 flash.q = params.q
-		 println(searchResults.total)
-		 return [searchResults:searchResults.results, resultCount:searchResults.total]
+		// def searchResults = Concepts.search(params.q, params)
+		 def searchResults=  Concepts.withCriteria {
+             ilike 'name', params.q + '%'
+}
+       
+         flash.message = "${searchResults.size()} results found for search: ${params.q}"
+         flash.q = params.q
+         println(searchResults.size())
+         return [searchResults:searchResults, resultCount:searchResults.size()]
 	
 		}
 
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
+	
+	def main = {
+		
+	}
+	def checkQ =
+	{
+		println(params)
+		def con = params.q.toLong();
+			println("parameter is"+con)
+			
+			HashMap jsonMap = new HashMap()
+			List<Concepts> b = new ArrayList<Concepts>()
+		b = Concepts.executeQuery("select c from conceptmetab.Concepts c  where c.id = (select c from conceptmetab.Concept_types ce where ce.id = 1 )")
+		
+		render b
+	}
 
 	def getName = {
 		def searchResults = Concept_types.search(params.q, params)
@@ -60,7 +80,7 @@ class ConceptsController {
 		def ajaxConFinder = {
 			def conFound = Concepts.withCriteria {
 				  ilike 'con', params.term + '%'
-				 }
+				 }.sort()
 		  render (conFound as JSON)
 		 }
 		
@@ -72,6 +92,8 @@ class ConceptsController {
 	
 					  def foundCities = Concepts.withCriteria {
 									   ilike 'name', params.term + '%'
+									   order("name", "asc")
+									   
 					  }
 	
 			 render (foundCities?.'name' as JSON)
