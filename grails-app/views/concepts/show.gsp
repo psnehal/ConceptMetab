@@ -22,11 +22,22 @@
 			</g:if>
 			<ol class="property-list concepts">
 			
+				<g:if test="${conceptsInstance?.name}">
+				<li class="fieldcontain">
+					<span id="name-label" class="property-label"><g:message code="concepts.name.label" default="Name" /></span>
+					<g:set var="cnm" value="${conceptsInstance?.id}"/>	
+					
+					<span class="property-value" aria-labelledby="original_id-label">	<g:link controller="Enrichments" action="filterSlider" params="[id1:1e-45,id2:0.01,q:cnm,fil:'qval' ]"><b>${conceptsInstance?.name.capitalize()}</b></g:link></span>
+						
+					
+				</li>
+				</g:if>		
+			
 				<g:if test="${conceptsInstance?.original_id}">
 				<li class="fieldcontain">
-					<span id="original_id-label" class="property-label"><g:message code="concepts.original_id.label" default="" />Original-Id </span>
+					<span id="original_id-label" class="property-label"><g:message code="concepts.original_id.label" default="" />Concept-Id </span>
 					
-						<span class="property-value" aria-labelledby="original_id-label"><g:fieldValue bean="${conceptsInstance}" field="original_id"/></span>
+					<span class="property-value" aria-labelledby="original_id-label"><g:fieldValue bean="${conceptsInstance}" field="original_id"/></span>
 					
 				</li>
 				
@@ -40,61 +51,19 @@
 				</li>
 				</g:if>
 				
-				<g:if test="${conceptsInstance?.name}">
-				<li class="fieldcontain">
-					<span id="name-label" class="property-label"><g:message code="concepts.name.label" default="Name" /></span>
-					
-						<span class="property-value" aria-labelledby="name-label"><g:fieldValue bean="${conceptsInstance}" field="name"/></span>
-					
-				</li>
-				</g:if>
+				
 			
 				<g:if test="${conceptsInstance?.num_compounds}">
-				<li class="fieldcontain">
-					<span id="num_compounds-label" class="property-label"><g:message code="concepts.num_compounds.label" default="Numcompounds" /></span>
-					
-						<span class="property-value" aria-labelledby="num_compounds-label"><g:fieldValue bean="${conceptsInstance}" field="num_compounds"/></span>
-					
-				</li>
-				
-				
 				<li class="fieldcontain">
 					<span id="num_compounds-label" class="property-label">Number of Compounds</span>
 					<g:set var="cnm" value="${conceptsInstance?.id}"/>	
 						<span class="property-value" aria-labelledby="num_compounds-label">	<g:link controller="Compounds_in_concepts" action="findComp" params="[q:cnm]"><g:fieldValue bean="${conceptsInstance}" field="num_compounds"/></g:link></span>
 					
 				</li>
-				
-					
-				<li class="fieldcontain">
-					<span id="num_compounds-label" class="property-label">Enrichment new tree</span>
-					<g:set var="cnm" value="${conceptsInstance?.id}"/>	
-					<span class="property-value" aria-labelledby="num_compounds-label">	<g:link controller="Enrichments" action="filterSlider" params="[id1:0,id2:300,q:cnm,fil:'pval' ]">"${cnm}"</g:link></span>
-				</li>
-				
-				
 				</g:if>
 				
-				
-			
-	
-				
-		
-			
-				
-			
-				<g:if test="${conceptsInstance?.num_enriched}">
-				<li class="fieldcontain">
-					<span id="num_enriched-label" class="property-label"><g:message code="concepts.num_enriched.label" default="Numenriched" /></span>
 					
-						<span class="property-value" aria-labelledby="num_enriched-label"><g:fieldValue bean="${conceptsInstance}" field="num_enriched"/></span>
-					
-				</li>
-				</g:if>
-	
 				
-				${conceptsInstance?.id}
-			
 			
 				
 			

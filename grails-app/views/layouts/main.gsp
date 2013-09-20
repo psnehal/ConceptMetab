@@ -18,13 +18,12 @@
 		<r:layoutResources />
 	</head>
 	<body>
-		<g:render template="/layouts/header"/>    
+		<g:render template="/layouts/header"/>  
+		
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>
 		<div id="spinner" class="spinner" style="display:none;"><g:message code="spinner.alt" default="Loading&hellip;"/></div>
-		
-
-		<g:javascript library="application"/>
+				<g:javascript library="application"/>
 		<r:layoutResources />
 	</body>
 </html>

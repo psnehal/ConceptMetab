@@ -7,7 +7,7 @@ class ConceptsController {
 	
 	
 	def beforeInterceptor =
-	[action:this.&auth, except:["index", "list", "show", "create","atom","getName", "search","opt","ajaxFindCity","checkQ","main"]]
+	[action:this.&auth, except:["index", "list", "show", "create","atom","getName", "search","opt","ajaxFindCity","checkQ","main","intro","dbspecific"]]
 
 	 def search = {
 		  //render Entry.search(params.q, params)
@@ -26,10 +26,55 @@ class ConceptsController {
 		}
 
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
-	
+	def dbspecific (Integer max) {
+		
+		println(params);
+		params.max = Math.min(max ?: 10, 100)
+		List<Concepts> c = new ArrayList<Concepts>()
+		c = Concept_types.withCriteria{ ilike 'fullname', params.name + '%'}
+		
+		println("cid is "+ c.id.getAt(0).toLong())
+		def con =c.id.getAt(0).toLong()
+		
+		List<Concepts> b = new ArrayList<Concepts>()
+		 b = Concepts.withCriteria
+		 { concept_types 
+			{
+				eq('fullname' , params.name)
+			}
+		}
+		
+	[b:b, resultcount :  b.size()]
+	}
 	def main = {
 		
+		def result = Concepts.list()
+		
+		println("list of interactions == "+result.size())
+		def id1= result.collect{ ids -> return(Concepts.get(ids.id).concept_types.getFullname())}
+		
+		
+	  
+		def map = [:]  //1
+		id1.each {  //2
+			if(map.containsKey(it)) map[it] = map[it] + 1  //3
+			else map[it] = 1;
+		}
+		   
+	
+	
+	
+		
+		
+
+		[map:map]
+		
 	}
+	
+	def intro = {
+	
+	
+}
 	def checkQ =
 	{
 		println(params)

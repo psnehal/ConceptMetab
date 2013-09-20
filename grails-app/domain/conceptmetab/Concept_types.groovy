@@ -4,6 +4,7 @@ class Concept_types {
 	
 	
 	String name
+	String fullname
 	static hasMany  = [ concepts:Concepts ]
 	
 	 static searchable = true
@@ -14,5 +15,5 @@ class Concept_types {
 		
     }
 	
-	String toString() {return name}
+	String toString() {return fullname}
 }

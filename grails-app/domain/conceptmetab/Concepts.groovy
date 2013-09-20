@@ -8,6 +8,7 @@ class Concepts {
 	String name 
 	Integer num_compounds 
 	Integer num_enriched 
+	 Concept_types concept_types
 	
 	
 	static searchable = true

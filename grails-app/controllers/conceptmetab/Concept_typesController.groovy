@@ -12,7 +12,27 @@ class Concept_typesController {
 
     def list(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        [concept_typesInstanceList: Concept_types.list(params), concept_typesInstanceTotal: Concept_types.count()]
+		
+		
+		def result = Concepts.list()
+		
+		println("list of interactions == "+result.size())
+		def id1= result.collect{ ids -> return(Concepts.get(ids.id).concept_types.getName())}
+		
+		
+	  
+		def map = [:]  //1
+		id1.each {  //2
+			if(map.containsKey(it)) map[it] = map[it] + 1  //3
+			else map[it] = 1;
+		}
+		   
+		
+	
+		
+		
+
+        [map:map]
     }
 
     def create() {

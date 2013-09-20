@@ -1,0 +1,135 @@
+"87"	"93"	"204"	"261"	"1908"
+"vacuolar part"	0	0	0	0	0
+"apical part of cell"	0	0	0	0	0
+"plasma membrane part"	0	0	0	0	0
+"amylo-alpha-16-glucosidase activity"	0	0	1	1	0
+"4-alpha-glucanotransferase activity"	0	0	1	1	0
+"glycogen debranching enzyme activity"	0	0	1	1	0
+"glucan 14-alpha-glucosidase activity"	0	0	1	0	0
+"lytic vacuole"	0	0	0	0	0
+"vacuolar membrane"	0	0	0	0	0
+"lysosomal membrane"	0	0	0	0	0
+"lysosome"	0	0	0	0	0
+"vacuole"	0	0	0	0	0
+"inclusion body"	0	0	0	0	0
+"apical plasma membrane"	0	0	0	0	0
+"hydrolase activity acting on glycosyl bonds"	0	0	0	0	0
+"carbohydrate kinase activity"	0	0	0	0	0
+"carbohydrate binding"	0	0	0	0	0
+"small conjugating protein binding"	0	0	1	1	0
+"maltose alpha-glucosidase activity"	0	0	1	0	0
+"polyubiquitin binding"	0	0	1	1	0
+"alpha-glucosidase activity"	0	0	1	0	0
+"hydrolase activity hydrolyzing O-glycosyl compounds"	0	0	0	0	0
+"hexokinase activity"	0	0	0	0	1
+"glucose binding"	0	0	0	0	0
+"glucosidase activity"	0	0	0	0	0
+"amylase activity"	0	0	1	0	0
+"muscle cell homeostasis"	0	0	0	0	1
+"tissue morphogenesis"	0	0	0	0	0
+"cardiac muscle tissue development"	0	0	1	0	1
+"muscle organ morphogenesis"	0	0	1	0	1
+"regulation of system process"	0	0	0	0	0
+"glucan metabolic process"	0	0	0	0	0
+"tongue morphogenesis"	0	0	1	0	0
+"tongue development"	0	0	1	0	0
+"cellular polysaccharide metabolic process"	0	0	0	0	0
+"cellular carbohydrate metabolic process"	0	0	0	0	0
+"cellular polysaccharide catabolic process"	0	0	0	0	1
+"polysaccharide digestion"	0	0	0	0	1
+"cellular carbohydrate catabolic process"	0	0	0	0	0
+"muscle structure development"	0	0	0	0	0
+"cellular component organization at cellular level"	0	0	0	0	0
+"cellular component organization or biogenesis at cellular level"	0	0	0	0	0
+"cardiovascular system development"	0	0	0	0	0
+"circulatory system development"	0	0	0	0	0
+"neuromuscular process controlling balance"	0	0	0	0	1
+"neuromuscular process"	0	0	0	0	1
+"neurological system process"	0	0	0	0	0
+"neuromuscular process controlling posture"	0	0	0	0	0
+"musculoskeletal movement"	0	0	1	0	1
+"multicellular organismal movement"	0	0	1	0	1
+"regulation of multicellular organismal process"	0	0	0	0	0
+"maintenance of location"	0	0	0	0	0
+"cellular localization"	0	0	0	0	0
+"maintenance of location in cell"	0	0	1	0	1
+"cardiac muscle tissue morphogenesis"	0	0	1	0	1
+"cardiac muscle contraction"	0	0	0	0	1
+"heart contraction"	0	0	0	0	1
+"ventricular cardiac muscle tissue morphogenesis"	0	0	1	0	1
+"muscle tissue development"	0	0	0	0	0
+"muscle tissue morphogenesis"	0	0	1	0	1
+"anatomical structure homeostasis"	0	0	0	0	0
+"glucose transport"	0	0	0	0	0
+"monosaccharide transport"	0	0	0	0	0
+"striated muscle tissue development"	0	0	0	0	0
+"carbohydrate catabolic process"	0	0	0	0	0
+"energy derivation by oxidation of organic compounds"	0	0	0	0	0
+"glycoside metabolic process"	0	0	0	0	0
+"hexose metabolic process"	0	0	0	0	0
+"cellular homeostasis"	0	0	0	0	0
+"homeostatic process"	0	0	0	0	0
+"vacuolar sequestering"	0	0	1	0	1
+"energy reserve metabolic process"	0	0	0	0	0
+"generation of precursor metabolites and energy"	0	0	0	0	0
+"polysaccharide catabolic process"	0	0	0	0	0
+"maltose metabolic process"	0	0	1	0	1
+"diaphragm contraction"	0	0	1	0	1
+"regulation of the force of heart contraction"	0	0	0	0	0
+"circulatory system process"	0	0	0	0	0
+"muscle system process"	0	0	0	0	0
+"involuntary skeletal muscle contraction"	0	0	1	0	1
+"respiratory system process"	0	0	0	0	0
+"heart process"	0	0	0	0	1
+"skeletal muscle contraction"	0	0	1	0	1
+"heart morphogenesis"	0	0	0	0	1
+"glucose metabolic process"	0	0	0	0	0
+"starch metabolic process"	0	0	1	0	0
+"glycogen catabolic process"	0	0	0	0	1
+"monosaccharide metabolic process"	0	0	0	0	0
+"sucrose metabolic process"	0	0	1	0	1
+"disaccharide metabolic process"	0	0	0	0	0
+"starch catabolic process"	0	0	1	0	0
+"cardiac ventricle development"	0	0	1	0	1
+"ventricular cardiac muscle tissue development"	0	0	1	0	1
+"cardiac ventricle morphogenesis"	0	0	1	0	1
+"glycogen metabolic process"	0	0	0	0	0
+"polysaccharide metabolic process"	0	0	0	0	0
+"cardiac chamber morphogenesis"	0	0	1	0	1
+"cardiac chamber development"	0	0	1	0	1
+"cellular glucan metabolic process"	0	0	0	0	0
+"glucan catabolic process"	0	0	0	0	1
+"oligosaccharide metabolic process"	0	0	0	0	0
+"organ morphogenesis"	0	0	0	0	0
+"regulation of glucose transport"	0	0	0	0	0
+"muscle contraction"	0	0	0	0	0
+"lysosome organization"	0	0	0	0	1
+"vacuole organization"	0	0	0	0	0
+"organelle organization"	0	0	0	0	0
+"striated muscle contraction"	0	0	0	0	0
+"respiratory gaseous exchange"	0	0	0	0	0
+"digestion"	0	0	0	0	0
+"muscle organ development"	0	0	0	0	0
+"heart development"	0	0	0	0	1
+"sensory organ development"	0	0	0	0	0
+"locomotory behavior"	0	0	0	0	0
+"regulation of heart contraction"	0	0	0	0	0
+"blood circulation"	0	0	0	0	0
+"behavior"	0	0	0	0	0
+"macromolecule catabolic process"	0	0	0	0	0
+"hexose transport"	0	0	0	0	0
+"carbohydrate transport"	0	0	0	0	0
+"Maltose; Malt sugar; alpha-D-Glucopyranosyl-(1->4)-D-glucopyranose"	0	0	0	0	0
+"Dyslipidemias"	0	1	0	1	0
+"Lactose Intolerance"	0	1	0	0	0
+"Diarrhea Infantile"	0	0	0	0	0
+"Diabetic Coma"	0	1	0	1	0
+"Glucan 14-alpha-glucosidase"	0	0	1	0	0
+"Galactose metabolism"	0	0	0	0	0
+"Starch and sucrose metabolism"	0	0	0	0	0
+"ubiquitin binding"	0	0	1	1	0
+"monosaccharide binding"	0	0	0	0	0
+"Alpha-glucosidase"	0	0	1	0	0
+"Amylo-alpha-16-glucosidase"	0	0	1	1	0
+"4-alpha-glucanotransferase"	0	0	1	1	0
+"Glucose Intolerance"	0	1	0	0	0

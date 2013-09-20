@@ -1,0 +1,224 @@
+"98"	"150"	"215"	"244"	"388"
+"microbody lumen"	0	0	0	0	0
+"microbody"	0	0	0	0	0
+"neuron projection"	0	0	0	0	0
+"cell projection"	0	0	0	0	0
+"peroxisomal part"	0	0	0	0	0
+"microbody part"	0	0	0	0	0
+"cell body"	0	0	0	0	0
+"basal part of cell"	0	0	0	0	0
+"fatty-acyl-CoA binding"	0	0	0	0	0
+"carboxylesterase activity"	0	0	0	0	0
+"acyl-CoA oxidase activity"	0	0	0	0	0
+"acyl-CoA dehydrogenase activity"	0	0	0	0	0
+"regulation of fatty acid transport"	0	0	0	0	0
+"positive regulation of fatty acid transport"	0	0	0	0	0
+"peroxisome"	0	0	0	0	0
+"peroxisomal matrix"	0	0	0	0	0
+"mitochondrion"	0	0	0	0	0
+" 164038"	0	0	0	0	0
+" 164227"	0	0	0	0	0
+" 164416"	0	0	0	0	0
+"basal plasma membrane"	0	0	0	0	0
+"integral to endoplasmic reticulum membrane"	0	0	0	0	0
+"basolateral plasma membrane"	0	0	0	0	0
+"integral to organelle membrane"	0	0	0	0	0
+"intrinsic to organelle membrane"	0	0	0	0	0
+"intrinsic to endoplasmic reticulum membrane"	0	0	0	0	0
+"oxidoreductase activity acting on the CH-CH group of donors oxygen as acceptor"	0	0	0	0	0
+"thiolester hydrolase activity"	0	0	0	0	0
+"hydrolase activity acting on ester bonds"	0	0	0	0	0
+" 213361"	0	0	0	0	0
+"ligase activity forming carbon-sulfur bonds"	0	0	0	0	0
+"acid-thiol ligase activity"	0	0	0	0	0
+"very long-chain fatty acid-CoA ligase activity"	0	0	0	0	0
+"receptor binding"	0	0	0	0	0
+" 200461"	0	0	0	0	0
+"protein binding"	0	0	0	0	0
+" 202685"	0	0	0	0	0
+" 202874"	0	0	0	0	0
+" 203063"	0	0	0	0	0
+" 203252"	0	0	0	0	0
+"lipid transporter activity"	0	0	0	0	0
+"palmitoyl-CoA hydrolase activity"	0	0	0	0	0
+"CoA hydrolase activity"	0	0	0	0	0
+"fatty acid ligase activity"	0	0	0	0	0
+"fatty acid transporter activity"	0	0	0	0	0
+"pristanoyl-CoA oxidase activity"	0	0	0	0	0
+"heterocycle metabolic process"	0	0	0	0	0
+" 117099"	0	0	0	0	0
+" 117288"	0	0	0	0	0
+"short-chain fatty acid metabolic process"	0	0	0	0	0
+"cellular ketone body metabolic process"	0	0	0	0	0
+"carboxylic acid transport"	0	0	0	0	0
+"ketone body biosynthetic process"	0	0	0	0	0
+"regulation of biological process"	0	0	0	0	0
+" 127821"	0	0	0	0	0
+" 128010"	0	0	0	0	0
+" 128199"	0	0	0	0	0
+"regulation of cellular process"	0	0	0	0	0
+" 128832"	0	0	0	0	0
+" 129021"	0	0	0	0	0
+" 129210"	0	0	0	0	0
+"dicarboxylic acid metabolic process"	0	0	0	0	0
+"cellular lipid metabolic process"	0	0	0	0	0
+" 106700"	0	0	0	0	0
+" 106889"	0	0	0	0	0
+"cellular catabolic process"	0	0	0	0	0
+" 105116"	0	0	0	0	0
+" 105305"	0	0	0	0	0
+" 105494"	0	0	0	0	0
+"cellular lipid catabolic process"	0	0	0	0	0
+"small molecule catabolic process"	0	0	0	0	0
+" 110022"	0	0	0	0	0
+" 110211"	0	0	0	0	0
+"carboxylic acid catabolic process"	0	0	0	0	0
+" 116008"	0	0	0	0	0
+"biological regulation"	0	0	0	0	0
+" 143540"	0	0	0	0	0
+" 143729"	0	0	0	0	0
+" 143918"	0	0	0	0	0
+" 144107"	0	0	0	0	0
+"organic substance transport"	0	0	0	0	0
+"monocarboxylic acid catabolic process"	0	0	0	0	0
+"response to stimulus"	0	0	0	0	0
+" 130473"	0	0	0	0	0
+" 130662"	0	0	0	0	0
+" 130851"	0	0	0	0	0
+" 131040"	0	0	0	0	0
+"cofactor metabolic process"	0	0	0	0	0
+" 133627"	0	0	0	0	0
+"cellular response to stimulus"	0	0	0	0	0
+" 138564"	0	0	0	0	0
+" 138753"	0	0	0	0	0
+" 138942"	0	0	0	0	0
+"nucleobase-containing small molecule metabolic process"	0	0	0	0	0
+" 140414"	0	0	0	0	0
+"transmembrane transport"	0	0	0	0	0
+"lipid modification"	0	0	0	0	0
+"lipid localization"	0	0	0	0	0
+"bile acid and bile salt transport"	0	0	0	0	0
+"monocarboxylic acid transport"	0	0	0	0	0
+"organic acid catabolic process"	0	0	0	0	0
+" 61409"	0	0	0	0	0
+"lipid catabolic process"	0	0	0	0	0
+" 59994"	0	0	0	0	0
+"plasma membrane long-chain fatty acid transport"	0	0	0	0	0
+"long-chain fatty acid transport"	0	0	0	0	0
+"fatty acid transport"	0	0	0	0	0
+"organic acid transport"	0	0	0	0	0
+"fatty acid oxidation"	0	0	0	0	0
+"carboxylic acid metabolic process"	0	0	0	0	0
+" 67956"	0	0	0	0	0
+" 68145"	0	0	0	0	0
+" 68334"	0	0	0	0	0
+" 68523"	0	0	0	0	0
+"taurine metabolic process"	0	0	0	0	0
+"response to chemical stimulus"	0	0	0	0	0
+" 91722"	0	0	0	0	0
+" 91911"	0	0	0	0	0
+" 92100"	0	0	0	0	0
+"cellular ketone metabolic process"	0	0	0	0	0
+" 90922"	0	0	0	0	0
+" 91111"	0	0	0	0	0
+" 91300"	0	0	0	0	0
+" 91489"	0	0	0	0	0
+"oxoacid metabolic process"	0	0	0	0	0
+" 99662"	0	0	0	0	0
+" 99851"	0	0	0	0	0
+" 100040"	0	0	0	0	0
+" 100229"	0	0	0	0	0
+"positive regulation of lipid transport"	0	0	0	0	0
+"regulation of lipid transport"	0	0	0	0	0
+"monocarboxylic acid metabolic process"	0	0	0	0	0
+" 80936"	0	0	0	0	0
+" 81125"	0	0	0	0	0
+"positive regulation of organic acid transport"	0	0	0	0	0
+"regulation of organic acid transport"	0	0	0	0	0
+"unsaturated monocarboxylic acid metabolic process"	0	0	0	0	0
+"saturated monocarboxylic acid metabolic process"	0	0	0	0	0
+"macromolecule localization"	0	0	0	0	0
+"fatty acid beta-oxidation using acyl-CoA oxidase"	0	0	0	0	0
+"cellular nitrogen compound metabolic process"	0	0	0	0	0
+" 85993"	0	0	0	0	0
+" 86182"	0	0	0	0	0
+" 86371"	0	0	0	0	0
+" 86560"	0	0	0	0	0
+"lipid oxidation"	0	0	0	0	0
+"thioester metabolic process"	0	0	0	0	0
+"succinyl-CoA metabolic process"	0	0	0	0	0
+"acyl-CoA metabolic process"	0	0	0	0	0
+"fatty acid beta-oxidation"	0	0	0	0	0
+"triglyceride mobilization"	0	0	0	0	0
+"fatty acid metabolic process"	0	0	0	0	0
+" 16274"	0	0	0	0	0
+"lipid metabolic process"	0	0	0	0	0
+" 15588"	0	0	0	0	0
+" 15777"	0	0	0	0	0
+" 15966"	0	0	0	0	0
+"cellular aromatic compound metabolic process"	0	0	0	0	0
+" 19312"	0	0	0	0	0
+" 19501"	0	0	0	0	0
+"coenzyme metabolic process"	0	0	0	0	0
+" 19739"	0	0	0	0	0
+"prostaglandin metabolic process"	0	0	0	0	0
+"prostanoid metabolic process"	0	0	0	0	0
+"bile acid biosynthetic process"	0	0	0	0	0
+"very long-chain fatty acid metabolic process"	0	0	0	0	0
+"long-chain fatty acid metabolic process"	0	0	0	0	0
+"bile acid conjugation"	0	0	0	0	0
+"organic acid metabolic process"	0	0	0	0	0
+" 8403"	0	0	0	0	0
+" 8592"	0	0	0	0	0
+" 8781"	0	0	0	0	0
+" 8970"	0	0	0	0	0
+"nitrogen compound metabolic process"	0	0	0	0	0
+" 22455"	0	0	0	0	0
+" 22644"	0	0	0	0	0
+" 22833"	0	0	0	0	0
+" 23022"	0	0	0	0	0
+"lipid transport"	0	0	0	0	0
+"bile acid metabolic process"	0	0	0	0	0
+"fatty acid catabolic process"	0	0	0	0	0
+"catabolic process"	0	0	0	0	0
+" 38086"	0	0	0	0	0
+" 38275"	0	0	0	0	0
+" 38464"	0	0	0	0	0
+" 38653"	0	0	0	0	0
+"Decanoyl-CoA"	0	0	0	0	0
+"Arachidonate; Arachidonic acid; (5Z8Z11Z14Z)-Icosatetraenoic acid; cis-581114-Eicosatetraenoic acid"	0	0	0	0	0
+"Bile acid-CoA:amino acid N-acyltransferase"	0	0	0	0	0
+"Acyl-CoA oxidase"	0	0	0	0	0
+"alpha-Linolenic acid metabolism"	0	0	0	0	0
+"Biosynthesis of unsaturated fatty acids"	0	0	0	0	0
+"Dermatitis Atopic"	0	0	0	0	0
+"protein homodimerization activity"	0	0	0	0	0
+" 223001"	0	0	0	0	0
+" 223190"	0	0	0	0	0
+"cation binding"	0	0	0	0	0
+" 224163"	0	0	0	0	0
+" 224352"	0	0	0	0	0
+" 224541"	0	0	0	0	0
+"ion binding"	0	0	0	0	0
+" 223411"	0	0	0	0	0
+" 223600"	0	0	0	0	0
+" 223789"	0	0	0	0	0
+"protein dimerization activity"	0	0	0	0	0
+" 226668"	0	0	0	0	0
+" 226857"	0	0	0	0	0
+"metal ion binding"	0	0	0	0	0
+" 225206"	0	0	0	0	0
+" 225395"	0	0	0	0	0
+" 225584"	0	0	0	0	0
+"glycine N-choloyltransferase activity"	0	0	0	0	0
+"cofactor binding"	0	0	0	0	0
+" 227696"	0	0	0	0	0
+" 227885"	0	0	0	0	0
+"cholate-CoA ligase activity"	0	0	0	0	0
+"protein N-terminus binding"	0	0	0	0	0
+"acyl-CoA hydrolase activity"	0	0	0	0	0
+"carboxylic ester hydrolase activity"	0	0	0	0	0
+"coenzyme binding"	0	0	0	0	0
+" 228547"	0	0	0	0	0
+"Cholate--CoA ligase"	0	0	0	0	0
+"Palmitoyl-CoA hydrolase"	0	0	0	0	0

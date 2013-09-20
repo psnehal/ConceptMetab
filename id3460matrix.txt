@@ -1,0 +1,1039 @@
+"3"	"5"	"6"	"8"	"10"
+"macromolecular complex"	0	0	0	0	0
+"ruffle membrane"	0	0	0	0	0
+"envelope"	0	0	0	0	0
+"membrane-enclosed lumen"	0	0	0	0	0
+"organelle envelope lumen"	0	0	0	0	0
+"nuclear lumen"	0	0	0	0	0
+"organelle envelope"	0	0	0	0	0
+"mitochondrial membrane"	0	0	0	0	0
+"non-membrane-bounded organelle"	0	0	0	0	0
+"protein complex"	0	0	0	0	0
+"organelle lumen"	0	0	0	0	0
+"intracellular non-membrane-bounded organelle"	0	0	0	0	0
+"mitochondrial nucleoid"	0	0	0	0	0
+"glycogen granule"	0	0	0	0	0
+"fatty acid beta-oxidation multienzyme complex"	0	0	0	0	0
+"nuclear outer membrane-endoplasmic reticulum membrane network"	0	0	0	0	0
+"nucleoplasm part"	0	0	0	0	0
+"endoplasmic reticulum part"	0	0	0	0	0
+"membrane part"	0	0	0	0	0
+" 186669"	0	0	0	0	0
+"cytoskeletal part"	0	0	0	0	0
+"mitochondrial part"	0	0	0	0	0
+"nuclear part"	0	0	0	0	0
+"cell periphery"	0	0	0	0	0
+"perinuclear region of cytoplasm"	0	0	0	0	0
+"intracellular organelle lumen"	0	0	0	0	0
+"intermediate filament cytoskeleton"	0	0	0	0	0
+"purine nucleobase binding"	0	0	0	0	0
+"DNA binding"	0	0	0	0	0
+"nucleic acid binding"	0	0	0	0	0
+"nucleoside binding"	0	0	0	0	0
+"retinal dehydrogenase activity"	0	0	0	0	0
+"nucleobase binding"	0	0	0	0	0
+"magnesium ion binding"	0	0	0	0	0
+"3-keto sterol reductase activity"	0	0	0	0	0
+"lipid kinase activity"	0	0	0	0	0
+"nucleic acid binding transcription factor activity"	0	0	0	0	0
+"tRNA binding"	0	0	0	0	0
+"TRAF2-GSTP1 complex"	0	0	0	0	0
+"nucleotide binding"	0	0	0	0	0
+" 193968"	0	0	0	0	0
+"acetyl-CoA C-acetyltransferase activity"	0	0	0	0	0
+"NADPH:quinone reductase activity"	0	0	0	0	0
+"3-hydroxyacyl-CoA dehydrogenase activity"	0	0	0	0	0
+"3-beta-hydroxy-delta5-steroid dehydrogenase activity"	0	0	0	0	0
+"D-amino-acid oxidase activity"	0	0	0	0	0
+"RNA binding"	0	0	0	0	0
+"sequence-specific DNA binding transcription factor activity"	0	0	0	0	0
+"carboxylesterase activity"	0	0	0	0	0
+"aldehyde oxidase activity"	0	0	0	0	0
+"aldehyde dehydrogenase [NAD(P)+] activity"	0	0	0	0	0
+"aldehyde dehydrogenase (NAD) activity"	0	0	0	0	0
+"L-aminoadipate-semialdehyde dehydrogenase activity"	0	0	0	0	0
+"acetyl-CoA C-acyltransferase activity"	0	0	0	0	0
+"3-chloroallyl aldehyde dehydrogenase activity"	0	0	0	0	0
+"alcohol dehydrogenase activity zinc-dependent"	0	0	0	0	0
+"alcohol dehydrogenase (NAD) activity"	0	0	0	0	0
+"glutathione transferase activity"	0	0	0	0	0
+"3-oxoacyl-[acyl-carrier-protein] synthase activity"	0	0	0	0	0
+"[acyl-carrier-protein] S-malonyltransferase activity"	0	0	0	0	0
+"[acyl-carrier-protein] S-acetyltransferase activity"	0	0	0	0	0
+"fatty acid synthase activity"	0	0	0	0	0
+"oleoyl-[acyl-carrier-protein] hydrolase activity"	0	0	0	0	0
+"enoyl-[acyl-carrier-protein] reductase (NADPH B-specific) activity"	0	0	0	0	0
+"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity"	0	0	0	0	0
+"3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity"	0	0	0	0	0
+"enoyl-CoA hydratase activity"	0	0	0	0	0
+"dodecenoyl-CoA delta-isomerase activity"	0	0	0	0	0
+"estradiol 17-beta-dehydrogenase activity"	0	0	0	0	0
+"extracellular negative regulation of signal transduction"	0	0	0	0	0
+"extracellular regulation of signal transduction"	0	0	0	0	0
+"organophosphate biosynthetic process"	0	0	0	0	0
+"regulation of multicellular organismal development"	0	0	0	0	0
+"negative regulation of cysteine-type endopeptidase activity"	0	0	0	0	0
+"regulation of cysteine-type endopeptidase activity"	0	0	0	0	0
+"negative regulation of cellular macromolecule biosynthetic process"	0	0	0	0	0
+"regulation of cellular macromolecule biosynthetic process"	0	0	0	0	0
+"carbohydrate derivative biosynthetic process"	0	0	0	0	0
+"nucleoside phosphate biosynthetic process"	0	0	0	0	0
+"nucleoside phosphate catabolic process"	0	0	0	0	0
+"guanosine-containing compound biosynthetic process"	0	0	0	0	0
+"guanosine-containing compound catabolic process"	0	0	0	0	0
+"guanosine-containing compound metabolic process"	0	0	0	0	0
+"carbohydrate derivative catabolic process"	0	0	0	0	0
+"carbohydrate derivative metabolic process"	0	0	0	0	0
+"olefin metabolic process"	0	0	0	0	0
+"olefin biosynthetic process"	0	0	0	0	0
+"regulation of RNA biosynthetic process"	0	0	0	0	0
+"regulation of reactive oxygen species metabolic process"	0	0	0	0	0
+"positive regulation of reproductive process"	0	0	0	0	0
+"positive regulation of reactive oxygen species metabolic process"	0	0	0	0	0
+"nucleoplasm"	0	0	0	0	0
+"nucleus"	0	0	0	0	0
+" 162351"	0	0	0	0	0
+"ruffle"	0	0	0	0	0
+"chromatin"	0	0	0	0	0
+"smooth endoplasmic reticulum"	0	0	0	0	0
+"endoplasmic reticulum membrane"	0	0	0	0	0
+"mitochondrial matrix"	0	0	0	0	0
+"mitochondrial intermembrane space"	0	0	0	0	0
+"mitochondrion"	0	0	0	0	0
+" 164342"	0	0	0	0	0
+"nucleolus"	0	0	0	0	0
+"mitochondrial inner membrane"	0	0	0	0	0
+"mitochondrial envelope"	0	0	0	0	0
+"endomembrane system"	0	0	0	0	0
+"cell surface"	0	0	0	0	0
+"microtubule cytoskeleton"	0	0	0	0	0
+"actin cytoskeleton"	0	0	0	0	0
+"ribonucleoside-diphosphate reductase complex"	0	0	0	0	0
+"nucleoid"	0	0	0	0	0
+"cytosol"	0	0	0	0	0
+" 168113"	0	0	0	0	0
+"intermediate filament"	0	0	0	0	0
+"cytoskeleton"	0	0	0	0	0
+"lamellipodium"	0	0	0	0	0
+"organelle inner membrane"	0	0	0	0	0
+"flagellum"	0	0	0	0	0
+"integral to membrane"	0	0	0	0	0
+"mitochondrial fatty acid beta-oxidation multienzyme complex"	0	0	0	0	0
+"leading edge membrane"	0	0	0	0	0
+"cytoplasmic vesicle"	0	0	0	0	0
+"cell leading edge"	0	0	0	0	0
+"smooth endoplasmic reticulum membrane"	0	0	0	0	0
+"oxidoreductase activity acting on CH or CH2 groups disulfide as acceptor"	0	0	0	0	0
+"oxidoreductase activity acting on paired donors with incorporation or reduction of molecular oxygen"	0	0	0	0	0
+"oxidoreductase activity acting on single donors with incorporation of molecular oxygen incorporation of two atoms of oxygen"	0	0	0	0	0
+"oxidoreductase activity acting on single donors with incorporation of molecular oxygen"	0	0	0	0	0
+"oxidoreductase activity acting on peroxide as acceptor"	0	0	0	0	0
+"oxidoreductase activity acting on paired donors with incorporation or reduction of molecular oxygen reduced flavin or flavoprotein as one donor and incorporation of one atom of oxygen"	0	0	0	0	0
+"oxidoreductase activity acting on paired donors with incorporation or reduction of molecular oxygen NADH or NADPH as one donor and incorporation of one atom of oxygen"	0	0	0	0	0
+"oxidoreductase activity acting on a sulfur group of donors quinone or similar compound as acceptor"	0	0	0	0	0
+"oxidoreductase activity acting on a sulfur group of donors NAD or NADP as acceptor"	0	0	0	0	0
+"hydrolase activity acting on ester bonds"	0	0	0	0	0
+"hydrolase activity"	0	0	0	0	0
+"phosphatase activity"	0	0	0	0	0
+"phosphotransferase activity phosphate group as acceptor"	0	0	0	0	0
+"phosphotransferase activity nitrogenous group as acceptor"	0	0	0	0	0
+"phosphotransferase activity alcohol group as acceptor"	0	0	0	0	0
+"nucleotidyltransferase activity"	0	0	0	0	0
+"transferase activity transferring phosphorus-containing groups"	0	0	0	0	0
+"transferase activity transferring alkyl or aryl (other than methyl) groups"	0	0	0	0	0
+"transferase activity transferring pentosyl groups"	0	0	0	0	0
+"transferase activity"	0	0	0	0	0
+" 211244"	0	0	0	0	0
+"cis-trans isomerase activity"	0	0	0	0	0
+"hydro-lyase activity"	0	0	0	0	0
+"carbon-sulfur lyase activity"	0	0	0	0	0
+"lyase activity"	0	0	0	0	0
+"carbon-oxygen lyase activity"	0	0	0	0	0
+"aldehyde-lyase activity"	0	0	0	0	0
+"hydrolase activity acting on acid anhydrides in phosphorus-containing anhydrides"	0	0	0	0	0
+"hydrolase activity acting on acid anhydrides"	0	0	0	0	0
+"hydrolase activity acting on carbon-nitrogen (but not peptide) bonds in cyclic amidines"	0	0	0	0	0
+"formaldehyde dehydrogenase activity"	0	0	0	0	0
+"pyrimidine nucleotide binding"	0	0	0	0	0
+"guanyl nucleotide binding"	0	0	0	0	0
+"purine nucleotide binding"	0	0	0	0	0
+"nucleoside-triphosphatase activity"	0	0	0	0	0
+"nucleoside-diphosphatase activity"	0	0	0	0	0
+"carbon-nitrogen ligase activity with glutamine as amido-N-donor"	0	0	0	0	0
+"ligase activity forming carbon-sulfur bonds"	0	0	0	0	0
+"ligase activity forming aminoacyl-tRNA and related compounds"	0	0	0	0	0
+"ligase activity forming carbon-oxygen bonds"	0	0	0	0	0
+"ligase activity"	0	0	0	0	0
+"acid-amino acid ligase activity"	0	0	0	0	0
+"ligase activity forming carbon-nitrogen bonds"	0	0	0	0	0
+"acid-thiol ligase activity"	0	0	0	0	0
+"heme binding"	0	0	0	0	0
+"vitamin binding"	0	0	0	0	0
+"retinol binding"	0	0	0	0	0
+"nucleoside kinase activity"	0	0	0	0	0
+"nucleobase-containing compound kinase activity"	0	0	0	0	0
+"oxygen binding"	0	0	0	0	0
+"aminobutyraldehyde dehydrogenase activity"	0	0	0	0	0
+"benzaldehyde dehydrogenase activity"	0	0	0	0	0
+"nucleotide kinase activity"	0	0	0	0	0
+"carbohydrate kinase activity"	0	0	0	0	0
+"3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity"	0	0	0	0	0
+"trans-2-enoyl-CoA reductase (NADPH) activity"	0	0	0	0	0
+"phosphopantetheine binding"	0	0	0	0	0
+"oxidoreductase activity acting on phosphorus or arsenic in donors"	0	0	0	0	0
+"adenyl nucleotide binding"	0	0	0	0	0
+"receptor inhibitor activity"	0	0	0	0	0
+"receptor regulator activity"	0	0	0	0	0
+"potassium ion binding"	0	0	0	0	0
+"oxidoreductase activity acting on phosphorus or arsenic in donors disulfide as acceptor"	0	0	0	0	0
+"vitamin D3 25-hydroxylase activity"	0	0	0	0	0
+"taurochenodeoxycholate 6alpha-hydroxylase activity"	0	0	0	0	0
+"guanyl ribonucleotide binding"	0	0	0	0	0
+"adenyl ribonucleotide binding"	0	0	0	0	0
+"purine ribonucleotide binding"	0	0	0	0	0
+"1-pyrroline dehydrogenase activity"	0	0	0	0	0
+"oxidoreductase activity acting on CH or CH2 groups quinone or similar compound as acceptor"	0	0	0	0	0
+"ribonucleotide binding"	0	0	0	0	0
+"alkali metal ion binding"	0	0	0	0	0
+"dITP diphosphatase activity"	0	0	0	0	0
+"dinitrosyl-iron complex binding"	0	0	0	0	0
+"S-nitrosoglutathione binding"	0	0	0	0	0
+"small molecule binding"	0	0	0	0	0
+" 221842"	0	0	0	0	0
+"purine ribonucleoside triphosphate binding"	0	0	0	0	0
+"NADH pyrophosphatase activity"	0	0	0	0	0
+"ethanol binding"	0	0	0	0	0
+"caffeine oxidase activity"	0	0	0	0	0
+"deoxyribonuclease activity"	0	0	0	0	0
+"exonuclease activity"	0	0	0	0	0
+"nucleotide diphosphatase activity"	0	0	0	0	0
+"nucleoside diphosphate kinase activity"	0	0	0	0	0
+"monooxygenase activity"	0	0	0	0	0
+"leukotriene-C4 synthase activity"	0	0	0	0	0
+"nuclease activity"	0	0	0	0	0
+"hypoxanthine phosphoribosyltransferase activity"	0	0	0	0	0
+"hexokinase activity"	0	0	0	0	0
+"ribonucleoside-diphosphate reductase activity thioredoxin disulfide as acceptor"	0	0	0	0	0
+"retinol dehydrogenase activity"	0	0	0	0	0
+"protein histidine kinase activity"	0	0	0	0	0
+"protein kinase activity"	0	0	0	0	0
+"glutathione peroxidase activity"	0	0	0	0	0
+"peroxidase activity"	0	0	0	0	0
+"aminoacyl-tRNA ligase activity"	0	0	0	0	0
+"alcohol dehydrogenase (NADP+) activity"	0	0	0	0	0
+"cytoskeletal protein binding"	0	0	0	0	0
+"glucose binding"	0	0	0	0	0
+"GTP binding"	0	0	0	0	0
+"ATP binding"	0	0	0	0	0
+"iron ion binding"	0	0	0	0	0
+"all-trans retinal binding"	0	0	0	0	0
+"calmodulin binding"	0	0	0	0	0
+"protein binding"	0	0	0	0	0
+" 202989"	0	0	0	0	0
+"steroid binding"	0	0	0	0	0
+"binding"	0	0	0	0	0
+" 201204"	0	0	0	0	0
+" 201697"	0	0	0	0	0
+"organic acid transmembrane transporter activity"	0	0	0	0	0
+"steroid hydroxylase activity"	0	0	0	0	0
+"zinc ion binding"	0	0	0	0	0
+"5'-nucleotidase activity"	0	0	0	0	0
+"nucleotidase activity"	0	0	0	0	0
+"FMN binding"	0	0	0	0	0
+"biotin binding"	0	0	0	0	0
+"betaine-aldehyde dehydrogenase activity"	0	0	0	0	0
+"2'-phosphotransferase activity"	0	0	0	0	0
+"JUN kinase binding"	0	0	0	0	0
+"AMP binding"	0	0	0	0	0
+"palmitoyl-[acyl-carrier-protein] hydrolase activity"	0	0	0	0	0
+"myristoyl-[acyl-carrier-protein] hydrolase activity"	0	0	0	0	0
+"palmitoyl-CoA hydrolase activity"	0	0	0	0	0
+"maleylacetoacetate isomerase activity"	0	0	0	0	0
+"fatty acid ligase activity"	0	0	0	0	0
+"tubulin binding"	0	0	0	0	0
+"peptide disulfide oxidoreductase activity"	0	0	0	0	0
+"glutathione disulfide oxidoreductase activity"	0	0	0	0	0
+"oxidoreductase activity acting on CH-OH group of donors"	0	0	0	0	0
+"oxidoreductase activity acting on the aldehyde or oxo group of donors oxygen as acceptor"	0	0	0	0	0
+"oxidoreductase activity acting on the CH-OH group of donors NAD or NADP as acceptor"	0	0	0	0	0
+"C-acetyltransferase activity"	0	0	0	0	0
+"malonyltransferase activity"	0	0	0	0	0
+"S-malonyltransferase activity"	0	0	0	0	0
+"long-chain-3-hydroxyacyl-CoA dehydrogenase activity"	0	0	0	0	0
+"long-chain-enoyl-CoA hydratase activity"	0	0	0	0	0
+"pyrophosphatase activity"	0	0	0	0	0
+"C-acyltransferase activity"	0	0	0	0	0
+"acetyltransferase activity"	0	0	0	0	0
+"CoA-ligase activity"	0	0	0	0	0
+"S-acetyltransferase activity"	0	0	0	0	0
+"S-acyltransferase activity"	0	0	0	0	0
+"kinase activity"	0	0	0	0	0
+"acyl-[acyl-carrier-protein] hydrolase activity"	0	0	0	0	0
+"glyoxylate metabolic process"	0	0	0	0	0
+"glycerolipid metabolic process"	0	0	0	0	0
+"nicotinamide nucleotide metabolic process"	0	0	0	0	0
+"heterocycle metabolic process"	0	0	0	0	0
+" 117403"	0	0	0	0	0
+"acylglycerol biosynthetic process"	0	0	0	0	0
+"neutral lipid biosynthetic process"	0	0	0	0	0
+"organophosphate catabolic process"	0	0	0	0	0
+"D-amino acid metabolic process"	0	0	0	0	0
+"icosanoid biosynthetic process"	0	0	0	0	0
+"negative regulation of insulin secretion"	0	0	0	0	0
+"male sex differentiation"	0	0	0	0	0
+"lymphocyte proliferation"	0	0	0	0	0
+"lymphocyte activation"	0	0	0	0	0
+"development of primary male sexual characteristics"	0	0	0	0	0
+"nucleotide phosphorylation"	0	0	0	0	0
+"secretion"	0	0	0	0	0
+"regulation of hormone secretion"	0	0	0	0	0
+"hormone secretion"	0	0	0	0	0
+"negative regulation of hormone secretion"	0	0	0	0	0
+"positive regulation of hormone secretion"	0	0	0	0	0
+"protein autophosphorylation"	0	0	0	0	0
+"organelle fission"	0	0	0	0	0
+"negative regulation of fibroblast proliferation"	0	0	0	0	0
+"male gamete generation"	0	0	0	0	0
+"embryonic eye morphogenesis"	0	0	0	0	0
+"regulation of fibroblast proliferation"	0	0	0	0	0
+"fibroblast proliferation"	0	0	0	0	0
+"cellular ketone body metabolic process"	0	0	0	0	0
+"fatty-acyl-CoA biosynthetic process"	0	0	0	0	0
+"ketone body biosynthetic process"	0	0	0	0	0
+"reproductive structure development"	0	0	0	0	0
+"embryonic morphogenesis"	0	0	0	0	0
+"embryonic camera-type eye morphogenesis"	0	0	0	0	0
+"embryonic organ development"	0	0	0	0	0
+"camera-type eye morphogenesis"	0	0	0	0	0
+"eye morphogenesis"	0	0	0	0	0
+"hemopoietic or lymphoid organ development"	0	0	0	0	0
+"embryonic organ morphogenesis"	0	0	0	0	0
+"positive regulation of cellular process"	0	0	0	0	0
+"positive regulation of biological process"	0	0	0	0	0
+"spermatid differentiation"	0	0	0	0	0
+"dendrite morphogenesis"	0	0	0	0	0
+"gland development"	0	0	0	0	0
+"tissue morphogenesis"	0	0	0	0	0
+"oligodendrocyte differentiation"	0	0	0	0	0
+"positive regulation of protein secretion"	0	0	0	0	0
+"positive regulation of epithelial cell proliferation"	0	0	0	0	0
+"neural nucleus development"	0	0	0	0	0
+"coagulation"	0	0	0	0	0
+"regulation of insulin secretion"	0	0	0	0	0
+"regulation of catalytic activity"	0	0	0	0	0
+"regulation of biological process"	0	0	0	0	0
+" 128125"	0	0	0	0	0
+"regulation of cellular process"	0	0	0	0	0
+" 129136"	0	0	0	0	0
+"cellular component biogenesis"	0	0	0	0	0
+"macromolecular complex subunit organization"	0	0	0	0	0
+"nose development"	0	0	0	0	0
+"cellular protein metabolic process"	0	0	0	0	0
+"cellular macromolecule catabolic process"	0	0	0	0	0
+"cellular carbohydrate metabolic process"	0	0	0	0	0
+"sulfur compound biosynthetic process"	0	0	0	0	0
+"cellular nitrogen compound biosynthetic process"	0	0	0	0	0
+"cellular biosynthetic process"	0	0	0	0	0
+" 106125"	0	0	0	0	0
+"cellular macromolecule metabolic process"	0	0	0	0	0
+"positive regulation of molecular function"	0	0	0	0	0
+"negative regulation of molecular function"	0	0	0	0	0
+"carnitine biosynthetic process"	0	0	0	0	0
+"development of primary sexual characteristics"	0	0	0	0	0
+"secondary metabolite biosynthetic process"	0	0	0	0	0
+"glycerolipid biosynthetic process"	0	0	0	0	0
+"interspecies interaction between organisms"	0	0	0	0	0
+"positive regulation of epidermis development"	0	0	0	0	0
+"regulation of epidermis development"	0	0	0	0	0
+"positive regulation of keratinocyte differentiation"	0	0	0	0	0
+"regulation of keratinocyte differentiation"	0	0	0	0	0
+"positive regulation of epidermal cell differentiation"	0	0	0	0	0
+"regulation of epidermal cell differentiation"	0	0	0	0	0
+"negative regulation of myeloid cell differentiation"	0	0	0	0	0
+"regulation of myeloid cell differentiation"	0	0	0	0	0
+"positive regulation of lymphocyte differentiation"	0	0	0	0	0
+"regulation of lymphocyte differentiation"	0	0	0	0	0
+"negative regulation of cell differentiation"	0	0	0	0	0
+"positive regulation of T cell differentiation"	0	0	0	0	0
+"endothelial cell differentiation"	0	0	0	0	0
+"regulation of T cell differentiation"	0	0	0	0	0
+"negative regulation of carbohydrate metabolic process"	0	0	0	0	0
+"negative regulation of mitosis"	0	0	0	0	0
+"negative regulation of transcription DNA-dependent"	0	0	0	0	0
+"positive regulation of blood pressure"	0	0	0	0	0
+"UTP metabolic process"	0	0	0	0	0
+"UMP metabolic process"	0	0	0	0	0
+"ITP metabolic process"	0	0	0	0	0
+"IMP metabolic process"	0	0	0	0	0
+"dUMP metabolic process"	0	0	0	0	0
+"ATP metabolic process"	0	0	0	0	0
+"AMP metabolic process"	0	0	0	0	0
+"GTP metabolic process"	0	0	0	0	0
+"GMP catabolic process"	0	0	0	0	0
+"GMP metabolic process"	0	0	0	0	0
+"CTP metabolic process"	0	0	0	0	0
+"negative regulation of growth"	0	0	0	0	0
+"negative regulation of nucleobase-containing compound metabolic process"	0	0	0	0	0
+"pyrimidine nucleoside catabolic process"	0	0	0	0	0
+"purine ribonucleoside metabolic process"	0	0	0	0	0
+"purine ribonucleoside catabolic process"	0	0	0	0	0
+"purine ribonucleoside biosynthetic process"	0	0	0	0	0
+"hypoxanthine biosynthetic process"	0	0	0	0	0
+"hypoxanthine metabolic process"	0	0	0	0	0
+"nucleobase biosynthetic process"	0	0	0	0	0
+"adenosine metabolic process"	0	0	0	0	0
+"adenine biosynthetic process"	0	0	0	0	0
+"adenine metabolic process"	0	0	0	0	0
+"dUMP catabolic process"	0	0	0	0	0
+"guanine biosynthetic process"	0	0	0	0	0
+"guanine metabolic process"	0	0	0	0	0
+"adenosine biosynthetic process"	0	0	0	0	0
+"monosaccharide catabolic process"	0	0	0	0	0
+"regulation of JNK cascade"	0	0	0	0	0
+"formaldehyde metabolic process"	0	0	0	0	0
+"regulation of glucose import"	0	0	0	0	0
+"glucose import"	0	0	0	0	0
+"formaldehyde catabolic process"	0	0	0	0	0
+"indolalkylamine catabolic process"	0	0	0	0	0
+"aldehyde catabolic process"	0	0	0	0	0
+"macromolecular complex assembly"	0	0	0	0	0
+"reproductive system development"	0	0	0	0	0
+"biological regulation"	0	0	0	0	0
+" 143844"	0	0	0	0	0
+"left/right pattern formation"	0	0	0	0	0
+"embryonic camera-type eye formation"	0	0	0	0	0
+"negative regulation of response to cytokine stimulus"	0	0	0	0	0
+"membrane organization"	0	0	0	0	0
+"negative regulation of stress-activated protein kinase signaling cascade"	0	0	0	0	0
+"negative regulation of ERK1 and ERK2 cascade"	0	0	0	0	0
+"regulation of ERK1 and ERK2 cascade"	0	0	0	0	0
+"ERK1 and ERK2 cascade"	0	0	0	0	0
+"necrotic cell death"	0	0	0	0	0
+"regulation of stress-activated protein kinase signaling cascade"	0	0	0	0	0
+"protein complex biogenesis"	0	0	0	0	0
+"kynurenine metabolic process"	0	0	0	0	0
+"D-serine metabolic process"	0	0	0	0	0
+"oxidative demethylation"	0	0	0	0	0
+"demethylation"	0	0	0	0	0
+"response to epidermal growth factor stimulus"	0	0	0	0	0
+"negative regulation of leukocyte proliferation"	0	0	0	0	0
+"response to oxygen levels"	0	0	0	0	0
+"cellular response to cadmium ion"	0	0	0	0	0
+"cellular response to arsenic-containing substance"	0	0	0	0	0
+"cellular response to inorganic substance"	0	0	0	0	0
+"cellular response to cell-matrix adhesion"	0	0	0	0	0
+"cellular response to lipid hydroperoxide"	0	0	0	0	0
+"cellular response to xenobiotic stimulus"	0	0	0	0	0
+"cellular response to hydroperoxide"	0	0	0	0	0
+"cellular response to steroid hormone stimulus"	0	0	0	0	0
+"cellular response to jasmonic acid stimulus"	0	0	0	0	0
+"cellular response to glucocorticoid stimulus"	0	0	0	0	0
+"cellular response to corticosteroid stimulus"	0	0	0	0	0
+"cellular response to epidermal growth factor stimulus"	0	0	0	0	0
+"protein complex subunit organization"	0	0	0	0	0
+"cellular component organization at cellular level"	0	0	0	0	0
+"cellular component organization or biogenesis at cellular level"	0	0	0	0	0
+"cellular component organization or biogenesis"	0	0	0	0	0
+"negative regulation of monocyte chemotactic protein-1 production"	0	0	0	0	0
+"regulation of monocyte chemotactic protein-1 production"	0	0	0	0	0
+"tumor necrosis factor superfamily cytokine production"	0	0	0	0	0
+"acyl-CoA biosynthetic process"	0	0	0	0	0
+"monocyte chemotactic protein-1 production"	0	0	0	0	0
+"pyrimidine-containing compound catabolic process"	0	0	0	0	0
+"pyrimidine-containing compound biosynthetic process"	0	0	0	0	0
+"pyrimidine-containing compound metabolic process"	0	0	0	0	0
+"purine-containing compound biosynthetic process"	0	0	0	0	0
+"purine-containing compound metabolic process"	0	0	0	0	0
+"pyridine-containing compound catabolic process"	0	0	0	0	0
+"pyridine-containing compound metabolic process"	0	0	0	0	0
+"purine-containing compound catabolic process"	0	0	0	0	0
+"negative regulation of protein serine/threonine kinase activity"	0	0	0	0	0
+"regulation of protein serine/threonine kinase activity"	0	0	0	0	0
+"renal system development"	0	0	0	0	0
+"nucleic acid metabolic process"	0	0	0	0	0
+"regulation of superoxide metabolic process"	0	0	0	0	0
+"negative regulation of peptide hormone secretion"	0	0	0	0	0
+"positive regulation of peptide hormone secretion"	0	0	0	0	0
+"regulation of peptide hormone secretion"	0	0	0	0	0
+"regulation of peptide transport"	0	0	0	0	0
+"regulation of body fluid levels"	0	0	0	0	0
+"positive regulation of T cell activation"	0	0	0	0	0
+"regulation of T cell activation"	0	0	0	0	0
+"regulation of nitrogen compound metabolic process"	0	0	0	0	0
+"positive regulation of binding"	0	0	0	0	0
+"negative regulation of cellular component organization"	0	0	0	0	0
+"regulation of cellular component organization"	0	0	0	0	0
+"regulation of DNA binding"	0	0	0	0	0
+"regulation of RNA metabolic process"	0	0	0	0	0
+"regulation of lymphocyte activation"	0	0	0	0	0
+"protein oligomerization"	0	0	0	0	0
+"negative regulation of RNA metabolic process"	0	0	0	0	0
+"cofactor biosynthetic process"	0	0	0	0	0
+"cofactor metabolic process"	0	0	0	0	0
+"protein heterooligomerization"	0	0	0	0	0
+"protein tetramerization"	0	0	0	0	0
+"protein heterotetramerization"	0	0	0	0	0
+"protein homotetramerization"	0	0	0	0	0
+"chromosome organization"	0	0	0	0	0
+"response to redox state"	0	0	0	0	0
+"negative regulation of nitric-oxide synthase biosynthetic process"	0	0	0	0	0
+"regulation of nitric-oxide synthase biosynthetic process"	0	0	0	0	0
+"nitric-oxide synthase biosynthetic process"	0	0	0	0	0
+"cellular localization"	0	0	0	0	0
+"establishment of localization in cell"	0	0	0	0	0
+"response to cAMP"	0	0	0	0	0
+"response to nitrosative stress"	0	0	0	0	0
+"stress-activated MAPK cascade"	0	0	0	0	0
+"regulation of endopeptidase activity"	0	0	0	0	0
+"regulation of peptidase activity"	0	0	0	0	0
+"medium-chain fatty acid metabolic process"	0	0	0	0	0
+"negative regulation of nuclear division"	0	0	0	0	0
+"regulation of nuclear division"	0	0	0	0	0
+"oxidation-reduction process"	0	0	0	0	0
+"nucleobase-containing small molecule metabolic process"	0	0	0	0	0
+"transmembrane transport"	0	0	0	0	0
+"negative regulation of necrotic cell death"	0	0	0	0	0
+"response to growth hormone stimulus"	0	0	0	0	0
+"face development"	0	0	0	0	0
+"head development"	0	0	0	0	0
+"olfactory pit development"	0	0	0	0	0
+"glial cell development"	0	0	0	0	0
+"nucleus accumbens development"	0	0	0	0	0
+"striatum development"	0	0	0	0	0
+"diencephalon development"	0	0	0	0	0
+"subpallium development"	0	0	0	0	0
+"telencephalon development"	0	0	0	0	0
+"biological adhesion"	0	0	0	0	0
+"cellular component assembly"	0	0	0	0	0
+"cell cycle phase"	0	0	0	0	0
+"pituitary gland development"	0	0	0	0	0
+"hemopoiesis"	0	0	0	0	0
+"insulin secretion"	0	0	0	0	0
+"peptide hormone secretion"	0	0	0	0	0
+"myeloid cell differentiation"	0	0	0	0	0
+"lymphocyte differentiation"	0	0	0	0	0
+"negative regulation of cell growth"	0	0	0	0	0
+"T cell differentiation"	0	0	0	0	0
+"lipid modification"	0	0	0	0	0
+"mammary gland development"	0	0	0	0	0
+"positive regulation of epithelial cell differentiation"	0	0	0	0	0
+"regulation of cellular biosynthetic process"	0	0	0	0	0
+"regeneration"	0	0	0	0	0
+"stress-activated protein kinase signaling cascade"	0	0	0	0	0
+"forebrain development"	0	0	0	0	0
+"embryonic camera-type eye development"	0	0	0	0	0
+"endocrine pancreas development"	0	0	0	0	0
+"glycine betaine biosynthetic process"	0	0	0	0	0
+"glycine betaine metabolic process"	0	0	0	0	0
+"IMP salvage"	0	0	0	0	0
+"GMP salvage"	0	0	0	0	0
+"purine nucleotide salvage"	0	0	0	0	0
+"mitochondrial DNA metabolic process"	0	0	0	0	0
+"positive regulation of insulin secretion"	0	0	0	0	0
+"oligodendrocyte development"	0	0	0	0	0
+"induction of programmed cell death"	0	0	0	0	0
+"programmed cell death"	0	0	0	0	0
+"negative regulation of cell cycle process"	0	0	0	0	0
+"regulation of glucose metabolic process"	0	0	0	0	0
+"positive regulation of cell death"	0	0	0	0	0
+"regulation of necrotic cell death"	0	0	0	0	0
+"peptide transport"	0	0	0	0	0
+"carbohydrate catabolic process"	0	0	0	0	0
+"carbohydrate biosynthetic process"	0	0	0	0	0
+"cell growth"	0	0	0	0	0
+"RNA metabolic process"	0	0	0	0	0
+"energy derivation by oxidation of organic compounds"	0	0	0	0	0
+"nucleobase-containing small molecule interconversion"	0	0	0	0	0
+"cellular membrane organization"	0	0	0	0	0
+"cellular component organization"	0	0	0	0	0
+"pantothenate metabolic process"	0	0	0	0	0
+"coenzyme A biosynthetic process"	0	0	0	0	0
+"coenzyme A metabolic process"	0	0	0	0	0
+"dephosphorylation"	0	0	0	0	0
+"death"	0	0	0	0	0
+"dendrite development"	0	0	0	0	0
+"morphogenesis of embryonic epithelium"	0	0	0	0	0
+"glycoside metabolic process"	0	0	0	0	0
+"monoterpenoid metabolic process"	0	0	0	0	0
+"peptidyl-amino acid modification"	0	0	0	0	0
+"heterocycle biosynthetic process"	0	0	0	0	0
+"peptidyl-cysteine S-nitrosylation"	0	0	0	0	0
+"peptidyl-cysteine modification"	0	0	0	0	0
+"drug metabolic process"	0	0	0	0	0
+"protein nitrosylation"	0	0	0	0	0
+"hexose metabolic process"	0	0	0	0	0
+"glycine betaine biosynthetic process from choline"	0	0	0	0	0
+"hexose catabolic process"	0	0	0	0	0
+"regulation of lipid metabolic process"	0	0	0	0	0
+"regulation of nucleobase-containing compound metabolic process"	0	0	0	0	0
+"regulation of steroid metabolic process"	0	0	0	0	0
+"nitrobenzene metabolic process"	0	0	0	0	0
+"tryptophan catabolic process to kynurenine"	0	0	0	0	0
+"aromatic compound catabolic process"	0	0	0	0	0
+"triglyceride biosynthetic process"	0	0	0	0	0
+"leukotriene biosynthetic process"	0	0	0	0	0
+"fatty acid oxidation"	0	0	0	0	0
+"arachidonic acid metabolic process"	0	0	0	0	0
+"pyridine nucleotide metabolic process"	0	0	0	0	0
+"secondary metabolic process"	0	0	0	0	0
+"L-ascorbic acid biosynthetic process"	0	0	0	0	0
+"cytolysis"	0	0	0	0	0
+"NAD metabolic process"	0	0	0	0	0
+"organophosphate metabolic process"	0	0	0	0	0
+"protein metabolic process"	0	0	0	0	0
+"response to decreased oxygen levels"	0	0	0	0	0
+"common myeloid progenitor cell proliferation"	0	0	0	0	0
+"nitric oxide storage"	0	0	0	0	0
+"regulation of T cell proliferation"	0	0	0	0	0
+"T cell proliferation"	0	0	0	0	0
+"gliogenesis"	0	0	0	0	0
+"T cell activation"	0	0	0	0	0
+"ERBB signaling pathway"	0	0	0	0	0
+"regulation of growth"	0	0	0	0	0
+"growth"	0	0	0	0	0
+"vitamin D metabolic process"	0	0	0	0	0
+"purine nucleoside metabolic process"	0	0	0	0	0
+"xenobiotic catabolic process"	0	0	0	0	0
+"superoxide anion generation"	0	0	0	0	0
+"retinol metabolic process"	0	0	0	0	0
+"pteridine-containing compound biosynthetic process"	0	0	0	0	0
+"purine nucleoside biosynthetic process"	0	0	0	0	0
+"benzene-containing compound metabolic process"	0	0	0	0	0
+"ribonucleoside biosynthetic process"	0	0	0	0	0
+"ribonucleoside catabolic process"	0	0	0	0	0
+"indole-containing compound catabolic process"	0	0	0	0	0
+"exogenous drug catabolic process"	0	0	0	0	0
+"drug catabolic process"	0	0	0	0	0
+"glucose homeostasis"	0	0	0	0	0
+"negative regulation of I-kappaB kinase/NF-kappaB cascade"	0	0	0	0	0
+"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process"	0	0	0	0	0
+"purine nucleobase salvage"	0	0	0	0	0
+"cellular metabolic compound salvage"	0	0	0	0	0
+"hypoxanthine salvage"	0	0	0	0	0
+"purine-containing compound salvage"	0	0	0	0	0
+"positive regulation of apoptotic process"	0	0	0	0	0
+"negative regulation of catalytic activity"	0	0	0	0	0
+"positive regulation of programmed cell death"	0	0	0	0	0
+"chordate embryonic development"	0	0	0	0	0
+"peptide biosynthetic process"	0	0	0	0	0
+"tRNA aminoacylation"	0	0	0	0	0
+"amino acid activation"	0	0	0	0	0
+"regulation of MAP kinase activity"	0	0	0	0	0
+"positive regulation of DNA binding"	0	0	0	0	0
+"negative regulation of MAPK cascade"	0	0	0	0	0
+"regulation of MAPK cascade"	0	0	0	0	0
+"negative regulation of MAP kinase activity"	0	0	0	0	0
+"regulation of cysteine-type endopeptidase activity involved in apoptotic process"	0	0	0	0	0
+"nucleoside salvage"	0	0	0	0	0
+"nucleotide salvage"	0	0	0	0	0
+"macromolecule metabolic process"	0	0	0	0	0
+"protein acylation"	0	0	0	0	0
+"negative regulation of JUN kinase activity"	0	0	0	0	0
+"regulation of JUN kinase activity"	0	0	0	0	0
+"alkene biosynthetic process"	0	0	0	0	0
+"cellular alkene metabolic process"	0	0	0	0	0
+"regulation of generation of precursor metabolites and energy"	0	0	0	0	0
+"macromolecule modification"	0	0	0	0	0
+"response to peptide hormone stimulus"	0	0	0	0	0
+"RNA biosynthetic process"	0	0	0	0	0
+"regulation of tumor necrosis factor production"	0	0	0	0	0
+"negative regulation of tumor necrosis factor production"	0	0	0	0	0
+"negative regulation of interleukin-1 production"	0	0	0	0	0
+"negative regulation of interleukin-1 beta production"	0	0	0	0	0
+"negative regulation of chemokine production"	0	0	0	0	0
+"regulation of chemokine production"	0	0	0	0	0
+"tumor necrosis factor production"	0	0	0	0	0
+"chemokine production"	0	0	0	0	0
+"positive regulation of superoxide anion generation"	0	0	0	0	0
+"regulation of superoxide anion generation"	0	0	0	0	0
+"mononuclear cell proliferation"	0	0	0	0	0
+"negative regulation of stress-activated MAPK cascade"	0	0	0	0	0
+"regulation of stress-activated MAPK cascade"	0	0	0	0	0
+"response to insulin stimulus"	0	0	0	0	0
+"tumor necrosis factor-mediated signaling pathway"	0	0	0	0	0
+"response to ATP"	0	0	0	0	0
+"response to hydroperoxide"	0	0	0	0	0
+"negative regulation of kinase activity"	0	0	0	0	0
+"unsaturated fatty acid metabolic process"	0	0	0	0	0
+"response to L-ascorbic acid"	0	0	0	0	0
+"nitric oxide homeostasis"	0	0	0	0	0
+"gas homeostasis"	0	0	0	0	0
+"fatty acid beta-oxidation using acyl-CoA dehydrogenase"	0	0	0	0	0
+"carbohydrate homeostasis"	0	0	0	0	0
+"phytol metabolic process"	0	0	0	0	0
+"primary alcohol catabolic process"	0	0	0	0	0
+"primary alcohol metabolic process"	0	0	0	0	0
+"response to monosaccharide stimulus"	0	0	0	0	0
+"nucleoside bisphosphate metabolic process"	0	0	0	0	0
+"ncRNA metabolic process"	0	0	0	0	0
+"nucleobase-containing compound catabolic process"	0	0	0	0	0
+"nucleobase-containing compound biosynthetic process"	0	0	0	0	0
+"cellular macromolecule biosynthetic process"	0	0	0	0	0
+"cellular nitrogen compound metabolic process"	0	0	0	0	0
+" 86297"	0	0	0	0	0
+"lipid oxidation"	0	0	0	0	0
+"thioester biosynthetic process"	0	0	0	0	0
+"thioester metabolic process"	0	0	0	0	0
+"endocrine system development"	0	0	0	0	0
+"long-chain fatty-acyl-CoA biosynthetic process"	0	0	0	0	0
+"fatty-acyl-CoA metabolic process"	0	0	0	0	0
+"long-chain fatty-acyl-CoA metabolic process"	0	0	0	0	0
+"purine nucleotide biosynthetic process"	0	0	0	0	0
+"purine nucleotide metabolic process"	0	0	0	0	0
+"purine nucleoside catabolic process"	0	0	0	0	0
+"adenine salvage"	0	0	0	0	0
+"nucleoside diphosphate phosphorylation"	0	0	0	0	0
+"energy reserve metabolic process"	0	0	0	0	0
+"purine nucleobase metabolic process"	0	0	0	0	0
+"nucleobase-containing compound metabolic process"	0	0	0	0	0
+"succinyl-CoA metabolic process"	0	0	0	0	0
+"regulation of carbohydrate metabolic process"	0	0	0	0	0
+"glycolysis"	0	0	0	0	0
+"generation of precursor metabolites and energy"	0	0	0	0	0
+"DNA replication"	0	0	0	0	0
+"DNA metabolic process"	0	0	0	0	0
+"pyrimidine nucleotide catabolic process"	0	0	0	0	0
+"CTP biosynthetic process"	0	0	0	0	0
+"mitochondrial DNA replication"	0	0	0	0	0
+"DNA-dependent DNA replication"	0	0	0	0	0
+"pyrimidine nucleoside metabolic process"	0	0	0	0	0
+"UTP biosynthetic process"	0	0	0	0	0
+"UMP biosynthetic process"	0	0	0	0	0
+"pyrimidine nucleotide biosynthetic process"	0	0	0	0	0
+"pyrimidine nucleotide metabolic process"	0	0	0	0	0
+"ATP catabolic process"	0	0	0	0	0
+"AMP catabolic process"	0	0	0	0	0
+"purine nucleotide catabolic process"	0	0	0	0	0
+"ITP catabolic process"	0	0	0	0	0
+"pyrimidine nucleobase metabolic process"	0	0	0	0	0
+"guanine salvage"	0	0	0	0	0
+"GMP biosynthetic process"	0	0	0	0	0
+"'de novo' IMP biosynthetic process"	0	0	0	0	0
+"IMP biosynthetic process"	0	0	0	0	0
+"GTP biosynthetic process"	0	0	0	0	0
+"regulation of transcription DNA-dependent"	0	0	0	0	0
+"transcription DNA-dependent"	0	0	0	0	0
+"DNA repair"	0	0	0	0	0
+"protein acetylation"	0	0	0	0	0
+"negative regulation of protein kinase activity"	0	0	0	0	0
+"internal protein amino acid acetylation"	0	0	0	0	0
+"tRNA aminoacylation for protein translation"	0	0	0	0	0
+"translation"	0	0	0	0	0
+"protein complex assembly"	0	0	0	0	0
+"RNA processing"	0	0	0	0	0
+"RNA catabolic process"	0	0	0	0	0
+"tRNA metabolic process"	0	0	0	0	0
+"glutamine metabolic process"	0	0	0	0	0
+"alanine metabolic process"	0	0	0	0	0
+"tyrosine catabolic process"	0	0	0	0	0
+"amino-acid betaine biosynthetic process"	0	0	0	0	0
+"amino-acid betaine metabolic process"	0	0	0	0	0
+"tyrosine metabolic process"	0	0	0	0	0
+"tryptophan catabolic process"	0	0	0	0	0
+"tryptophan metabolic process"	0	0	0	0	0
+"L-phenylalanine catabolic process"	0	0	0	0	0
+"L-phenylalanine metabolic process"	0	0	0	0	0
+"acyl-CoA metabolic process"	0	0	0	0	0
+"unsaturated fatty acid biosynthetic process"	0	0	0	0	0
+"fatty acid beta-oxidation"	0	0	0	0	0
+"triglyceride metabolic process"	0	0	0	0	0
+"acylglycerol metabolic process"	0	0	0	0	0
+"neutral lipid metabolic process"	0	0	0	0	0
+"lipid metabolic process"	0	0	0	0	0
+" 15892"	0	0	0	0	0
+"terpenoid metabolic process"	0	0	0	0	0
+"isoprenoid metabolic process"	0	0	0	0	0
+"coenzyme metabolic process"	0	0	0	0	0
+"steroid catabolic process"	0	0	0	0	0
+"prostaglandin metabolic process"	0	0	0	0	0
+"prostanoid metabolic process"	0	0	0	0	0
+"leukotriene metabolic process"	0	0	0	0	0
+"icosanoid metabolic process"	0	0	0	0	0
+"response to reactive oxygen species"	0	0	0	0	0
+"nuclear division"	0	0	0	0	0
+"MAPK cascade"	0	0	0	0	0
+"M phase"	0	0	0	0	0
+"mitotic cell cycle"	0	0	0	0	0
+"M phase of mitotic cell cycle"	0	0	0	0	0
+"regulation of transcription involved in G1/S phase of mitotic cell cycle"	0	0	0	0	0
+"mitochondrial genome maintenance"	0	0	0	0	0
+"G1/S transition of mitotic cell cycle"	0	0	0	0	0
+"regulation of cell growth"	0	0	0	0	0
+"urogenital system development"	0	0	0	0	0
+"mitochondrial RNA metabolic process"	0	0	0	0	0
+"kidney development"	0	0	0	0	0
+"endothelial cell development"	0	0	0	0	0
+"negative regulation of cytokine production"	0	0	0	0	0
+"long-chain fatty acid metabolic process"	0	0	0	0	0
+"response to hypoxia"	0	0	0	0	0
+"cell activation"	0	0	0	0	0
+"in utero embryonic development"	0	0	0	0	0
+"optic cup morphogenesis involved in camera-type eye development"	0	0	0	0	0
+"morphogenesis of an epithelium"	0	0	0	0	0
+"negative regulation of cytokine-mediated signaling pathway"	0	0	0	0	0
+"negative regulation of acute inflammatory response"	0	0	0	0	0
+"regulation of acute inflammatory response"	0	0	0	0	0
+"leukocyte differentiation"	0	0	0	0	0
+"immune system development"	0	0	0	0	0
+"myeloid leukocyte differentiation"	0	0	0	0	0
+"acute inflammatory response"	0	0	0	0	0
+"immune system process"	0	0	0	0	0
+"respiratory system process"	0	0	0	0	0
+"regionalization"	0	0	0	0	0
+"negative regulation of myeloid leukocyte differentiation"	0	0	0	0	0
+"positive regulation of peptide secretion"	0	0	0	0	0
+"negative regulation of peptide secretion"	0	0	0	0	0
+"regulation of peptide secretion"	0	0	0	0	0
+"peptide secretion"	0	0	0	0	0
+"regulation of myeloid leukocyte differentiation"	0	0	0	0	0
+"glucose catabolic process"	0	0	0	0	0
+"glucose metabolic process"	0	0	0	0	0
+"monosaccharide metabolic process"	0	0	0	0	0
+"endothelium development"	0	0	0	0	0
+"cellular aldehyde metabolic process"	0	0	0	0	0
+"pyruvate metabolic process"	0	0	0	0	0
+"ethanol catabolic process"	0	0	0	0	0
+"ethanol metabolic process"	0	0	0	0	0
+"ethanol oxidation"	0	0	0	0	0
+"purine nucleoside monophosphate catabolic process"	0	0	0	0	0
+"purine nucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"purine nucleoside monophosphate metabolic process"	0	0	0	0	0
+"nucleoside monophosphate catabolic process"	0	0	0	0	0
+"nucleoside diphosphate metabolic process"	0	0	0	0	0
+"pyrimidine nucleoside monophosphate catabolic process"	0	0	0	0	0
+"pyrimidine nucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"pyrimidine nucleoside monophosphate metabolic process"	0	0	0	0	0
+"nucleotide metabolic process"	0	0	0	0	0
+"nucleoside metabolic process"	0	0	0	0	0
+"purine nucleobase biosynthetic process"	0	0	0	0	0
+"nucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"nucleoside monophosphate metabolic process"	0	0	0	0	0
+"ribonucleoside metabolic process"	0	0	0	0	0
+"coenzyme biosynthetic process"	0	0	0	0	0
+"nucleobase metabolic process"	0	0	0	0	0
+"purine ribonucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"purine ribonucleoside monophosphate metabolic process"	0	0	0	0	0
+"nucleotide catabolic process"	0	0	0	0	0
+"nucleotide biosynthetic process"	0	0	0	0	0
+"pyrimidine deoxyribonucleoside monophosphate metabolic process"	0	0	0	0	0
+"pyrimidine ribonucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"pyrimidine ribonucleoside monophosphate metabolic process"	0	0	0	0	0
+"purine ribonucleoside monophosphate catabolic process"	0	0	0	0	0
+"deoxyribonucleoside monophosphate catabolic process"	0	0	0	0	0
+"ribonucleoside monophosphate catabolic process"	0	0	0	0	0
+"ribonucleoside monophosphate biosynthetic process"	0	0	0	0	0
+"purine ribonucleotide catabolic process"	0	0	0	0	0
+"nucleoside catabolic process"	0	0	0	0	0
+"nucleoside biosynthetic process"	0	0	0	0	0
+"deoxyribonucleoside monophosphate metabolic process"	0	0	0	0	0
+"ribonucleoside monophosphate metabolic process"	0	0	0	0	0
+"pyrimidine nucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"pyrimidine nucleoside triphosphate metabolic process"	0	0	0	0	0
+"purine nucleoside triphosphate catabolic process"	0	0	0	0	0
+"purine nucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"purine ribonucleotide biosynthetic process"	0	0	0	0	0
+"purine ribonucleotide metabolic process"	0	0	0	0	0
+"nucleoside diphosphate catabolic process"	0	0	0	0	0
+"nucleoside diphosphate biosynthetic process"	0	0	0	0	0
+"purine nucleoside triphosphate metabolic process"	0	0	0	0	0
+"nucleoside triphosphate catabolic process"	0	0	0	0	0
+"nucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"nucleoside triphosphate metabolic process"	0	0	0	0	0
+"nucleotide-sugar metabolic process"	0	0	0	0	0
+"ribonucleotide catabolic process"	0	0	0	0	0
+"ribonucleotide biosynthetic process"	0	0	0	0	0
+"ribonucleotide metabolic process"	0	0	0	0	0
+"pyrimidine ribonucleotide metabolic process"	0	0	0	0	0
+"pyrimidine ribonucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"pyrimidine deoxyribonucleotide catabolic process"	0	0	0	0	0
+"pyrimidine ribonucleotide biosynthetic process"	0	0	0	0	0
+"pyrimidine deoxyribonucleotide metabolic process"	0	0	0	0	0
+"ribonucleoside triphosphate catabolic process"	0	0	0	0	0
+"ribonucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"deoxyribonucleoside triphosphate metabolic process"	0	0	0	0	0
+"pyrimidine ribonucleoside triphosphate metabolic process"	0	0	0	0	0
+"purine ribonucleoside triphosphate catabolic process"	0	0	0	0	0
+"purine ribonucleoside triphosphate biosynthetic process"	0	0	0	0	0
+"purine ribonucleoside triphosphate metabolic process"	0	0	0	0	0
+"deoxyribonucleoside diphosphate metabolic process"	0	0	0	0	0
+"pyrimidine deoxyribonucleoside monophosphate catabolic process"	0	0	0	0	0
+"ribonucleoside triphosphate metabolic process"	0	0	0	0	0
+"carnitine metabolic process"	0	0	0	0	0
+"folic acid-containing compound biosynthetic process"	0	0	0	0	0
+"response to xenobiotic stimulus"	0	0	0	0	0
+"2'-deoxyribonucleotide metabolic process"	0	0	0	0	0
+"deoxyribonucleotide catabolic process"	0	0	0	0	0
+"deoxyribonucleotide biosynthetic process"	0	0	0	0	0
+"deoxyribonucleotide metabolic process"	0	0	0	0	0
+"embryo development"	0	0	0	0	0
+"response to jasmonic acid stimulus"	0	0	0	0	0
+"coumarin metabolic process"	0	0	0	0	0
+"response to glucose stimulus"	0	0	0	0	0
+"response to carbohydrate stimulus"	0	0	0	0	0
+"response to toxin"	0	0	0	0	0
+"response to abiotic stimulus"	0	0	0	0	0
+"phenylpropanoid metabolic process"	0	0	0	0	0
+"response to organic substance"	0	0	0	0	0
+" 53695"	0	0	0	0	0
+"glial cell differentiation"	0	0	0	0	0
+"hormone transport"	0	0	0	0	0
+"alkaloid catabolic process"	0	0	0	0	0
+"alkaloid metabolic process"	0	0	0	0	0
+"regulation of cell cycle process"	0	0	0	0	0
+"gene expression"	0	0	0	0	0
+"fatty acid omega-oxidation"	0	0	0	0	0
+"negative regulation of tumor necrosis factor-mediated signaling pathway"	0	0	0	0	0
+"regulation of tumor necrosis factor-mediated signaling pathway"	0	0	0	0	0
+"regulation of glucose transport"	0	0	0	0	0
+"negative regulation of intracellular protein kinase cascade"	0	0	0	0	0
+"negative regulation of cellular carbohydrate metabolic process"	0	0	0	0	0
+"negative regulation of organelle organization"	0	0	0	0	0
+"regulation of cellular carbohydrate metabolic process"	0	0	0	0	0
+"xenobiotic metabolic process"	0	0	0	0	0
+"phosphate-containing compound metabolic process"	0	0	0	0	0
+"phosphorus metabolic process"	0	0	0	0	0
+"nitrogen compound metabolic process"	0	0	0	0	0
+" 22759"	0	0	0	0	0
+"porphyrin-containing compound metabolic process"	0	0	0	0	0
+"water-soluble vitamin metabolic process"	0	0	0	0	0
+"ATP biosynthetic process"	0	0	0	0	0
+"NADP metabolic process"	0	0	0	0	0
+"oxidoreduction coenzyme metabolic process"	0	0	0	0	0
+"nucleoside phosphate metabolic process"	0	0	0	0	0
+"glutathione biosynthetic process"	0	0	0	0	0
+"glutathione metabolic process"	0	0	0	0	0
+"induction of apoptosis"	0	0	0	0	0
+"apoptotic process"	0	0	0	0	0
+"endocytosis"	0	0	0	0	0
+"organelle organization"	0	0	0	0	0
+"mitochondrion organization"	0	0	0	0	0
+"immune response"	0	0	0	0	0
+"response to lipid hydroperoxide"	0	0	0	0	0
+"response to DNA damage stimulus"	0	0	0	0	0
+"spermatogenesis"	0	0	0	0	0
+"germ cell development"	0	0	0	0	0
+"cell-cell signaling"	0	0	0	0	0
+"JNK cascade"	0	0	0	0	0
+"epidermal growth factor receptor signaling pathway"	0	0	0	0	0
+"regulation of mitosis"	0	0	0	0	0
+"mitosis"	0	0	0	0	0
+"cell adhesion"	0	0	0	0	0
+"aging"	0	0	0	0	0
+"lactation"	0	0	0	0	0
+"body fluid secretion"	0	0	0	0	0
+"digestion"	0	0	0	0	0
+"sex differentiation"	0	0	0	0	0
+"nervous system development"	0	0	0	0	0
+"brain development"	0	0	0	0	0
+"central nervous system development"	0	0	0	0	0
+"spermatid development"	0	0	0	0	0
+"pattern specification process"	0	0	0	0	0
+"regulation of mitotic cell cycle"	0	0	0	0	0
+"establishment of blood-nerve barrier"	0	0	0	0	0
+"steroid metabolic process"	0	0	0	0	0
+"grooming behavior"	0	0	0	0	0
+"hemostasis"	0	0	0	0	0
+"blood coagulation"	0	0	0	0	0
+"cell death"	0	0	0	0	0
+"insulin receptor signaling pathway"	0	0	0	0	0
+"positive regulation of cell proliferation"	0	0	0	0	0
+"androgen metabolic process"	0	0	0	0	0
+"aromatic amino acid family catabolic process"	0	0	0	0	0
+"aromatic amino acid family metabolic process"	0	0	0	0	0
+"pyruvate family amino acid metabolic process"	0	0	0	0	0
+"macromolecule biosynthetic process"	0	0	0	0	0
+"biosynthetic process"	0	0	0	0	0
+" 39258"	0	0	0	0	0
+"dUTP; 2'-Deoxyuridine 5'-triphosphate"	0	0	0	0	0
+"Arachidonate; Arachidonic acid; (5Z8Z11Z14Z)-Icosatetraenoic acid; cis-581114-Eicosatetraenoic acid"	0	0	0	0	0
+"Acetyl-CoA; Acetyl coenzyme A"	0	0	0	0	0
+"ADP; Adenosine 5'-diphosphate"	0	0	0	0	0
+"Carcinoma Ehrlich Tumor"	0	0	0	0	0
+"Nucleoside-triphosphate diphosphatase"	0	0	0	0	0
+"Apyrase"	0	0	0	0	0
+"Steroid Delta-isomerase"	0	0	0	0	0
+"3-beta-hydroxy-Delta(5)-steroid dehydrogenase"	0	0	0	0	0
+"Maleylacetoacetate isomerase"	0	0	0	0	0
+"Aldehyde oxidase"	0	0	0	0	0
+"Long-chain-3-hydroxyacyl-CoA dehydrogenase"	0	0	0	0	0
+"Ribonucleoside-diphosphate reductase"	0	0	0	0	0
+"Betaine-aldehyde dehydrogenase"	0	0	0	0	0
+"L-aminoadipate-semialdehyde dehydrogenase"	0	0	0	0	0
+"Glycolysis / Gluconeogenesis"	0	0	0	0	0
+"Pyrimidine metabolism"	0	0	0	0	0
+"Steroid biosynthesis"	0	0	0	0	0
+"Fatty acid metabolism"	0	0	0	0	0
+"Purine metabolism"	0	0	0	0	0
+"Fatty acid elongation in mitochondria"	0	0	0	0	0
+"Fatty acid biosynthesis"	0	0	0	0	0
+"Folate biosynthesis"	0	0	0	0	0
+"Propanoate metabolism"	0	0	0	0	0
+"Inositol phosphate metabolism"	0	0	0	0	0
+"Arachidonic acid metabolism"	0	0	0	0	0
+"Biosynthesis of unsaturated fatty acids"	0	0	0	0	0
+"Drug metabolism - cytochrome P450"	0	0	0	0	0
+"Metabolism of xenobiotics by cytochrome P450"	0	0	0	0	0
+"Aminoacyl-tRNA biosynthesis"	0	0	0	0	0
+"glutathione dehydrogenase (ascorbate) activity"	0	0	0	0	0
+"glutathione binding"	0	0	0	0	0
+"alcohol binding"	0	0	0	0	0
+"gamma-tubulin binding"	0	0	0	0	0
+"protein homodimerization activity"	0	0	0	0	0
+"identical protein binding"	0	0	0	0	0
+"anion binding"	0	0	0	0	0
+"phosphate ion binding"	0	0	0	0	0
+"peptide binding"	0	0	0	0	0
+"phosphoric ester hydrolase activity"	0	0	0	0	0
+"hormone binding"	0	0	0	0	0
+"androsterone dehydrogenase activity"	0	0	0	0	0
+"4-trimethylammoniobutyraldehyde dehydrogenase activity"	0	0	0	0	0
+"protein dimerization activity"	0	0	0	0	0
+"carboxylic acid transmembrane transporter activity"	0	0	0	0	0
+"metal ion binding"	0	0	0	0	0
+" 225510"	0	0	0	0	0
+"tetrapyrrole binding"	0	0	0	0	0
+"cofactor binding"	0	0	0	0	0
+"receptor antagonist activity"	0	0	0	0	0
+"albendazole monooxygenase activity"	0	0	0	0	0
+"nucleoside-triphosphate diphosphatase activity"	0	0	0	0	0
+"acyl-CoA hydrolase activity"	0	0	0	0	0
+"S-(hydroxymethyl)glutathione dehydrogenase activity"	0	0	0	0	0
+"guanine phosphoribosyltransferase activity"	0	0	0	0	0
+"NAD binding"	0	0	0	0	0
+"dioxygenase activity"	0	0	0	0	0
+"testosterone 6-beta-hydroxylase activity"	0	0	0	0	0
+"methylarsonate reductase activity"	0	0	0	0	0
+"quinine 3-monooxygenase activity"	0	0	0	0	0
+"coenzyme binding"	0	0	0	0	0
+"NADP binding"	0	0	0	0	0
+"adenylyltransferase activity"	0	0	0	0	0
+"vitamin D 25-hydroxylase activity"	0	0	0	0	0
+"vitamin D 24-hydroxylase activity"	0	0	0	0	0
+"thyroid hormone binding"	0	0	0	0	0
+"NAD+ binding"	0	0	0	0	0
+"NADPH binding"	0	0	0	0	0
+"aromatase activity"	0	0	0	0	0
+"nitric oxide binding"	0	0	0	0	0
+"Dodecenoyl-CoA isomerase"	0	0	0	0	0
+"Acetyl-CoA C-acyltransferase"	0	0	0	0	0
+"Nucleoside-diphosphate kinase"	0	0	0	0	0
+"nucleoside phosphate binding"	0	0	0	0	0
+" 231281"	0	0	0	0	0
+"oligopeptide binding"	0	0	0	0	0
+"organic cyclic compound binding"	0	0	0	0	0
+" 230645"	0	0	0	0	0
+"Unspecific monooxygenase"	0	0	0	0	0
+"Glutathione transferase"	0	0	0	0	0
+"S-(hydroxymethyl)glutathione dehydrogenase"	0	0	0	0	0
+"Alcohol dehydrogenase"	0	0	0	0	0
+"3-alpha-hydroxysteroid dehydrogenase (A-specific)"	0	0	0	0	0
+"Palmitoyl-CoA hydrolase"	0	0	0	0	0
+"5'-nucleotidase"	0	0	0	0	0
+"4-trimethylammoniobutyraldehyde dehydrogenase"	0	0	0	0	0
+"Aldehyde dehydrogenase (NAD(+))"	0	0	0	0	0
+"3-hydroxyacyl-CoA dehydrogenase"	0	0	0	0	0
+"Enoyl-CoA hydratase"	0	0	0	0	0
+"Fatty-acid synthase"	0	0	0	0	0
+"Aldehyde dehydrogenase (NAD(P)(+))"	0	0	0	0	0
+"Leukemia L1210"	0	0	0	0	0
+"Protein Deficiency"	0	0	0	0	0

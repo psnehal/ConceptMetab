@@ -9,38 +9,41 @@
 	</head>
 	<body>
 		<a href="#list-concept_types" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
-		<div class="nav" role="navigation">
-			<ul>
-				<li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
-				<li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
-			</ul>
-		</div>
+		
 		<div id="list-concept_types" class="content scaffold-list" role="main">
 			<h1><g:message code="default.list.label" args="[entityName]" /></h1>
 			<g:if test="${flash.message}">
 			<div class="message" role="status">${flash.message}</div>
 			</g:if>
+			
 			<table>
 				<thead>
 					<tr>
 					
-						<g:sortableColumn property="name" title="${message(code: 'concept_types.name.label', default: 'Name')}" />
+					<g:sortableColumn property="name" title="${message(code: 'concept_types.name.label', default: 'Name')}" />
+						<g:sortableColumn property="info" title="Information" />
+							<g:sortableColumn property="size" title="Concept_size" />
+					
+						
 					
 					</tr>
 				</thead>
 				<tbody>
-				<g:each in="${concept_typesInstanceList}" status="i" var="concept_typesInstance">
+				<g:each in="${map}" status="i" var="ci_inst">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
-						<td><g:link action="show" id="${concept_typesInstance.id}">${fieldValue(bean: concept_typesInstance, field: "name")}</g:link></td>
+						<td>${ci_inst.getKey()}</td>
+						
+						<td> <a href="#"><img src="${createLinkTo(dir: 'images/skin', file: 'information.png')}"  alt="Grails"/></a></td>
+						<td>${ci_inst.getValue() }</td>
 					
 					</tr>
 				</g:each>
+				
 				</tbody>
 			</table>
-			<div class="pagination">
-				<g:paginate total="${concept_typesInstanceTotal}" />
-			</div>
+			
+		
 		</div>
 	</body>
 </html>

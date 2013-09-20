@@ -19,6 +19,8 @@
         
         var options = {
           title: 'database distribution',
+          'legend':'bottom',
+          'is3D':true,
          // slices: {0: {color: '#FF0000'}, 1:{color: '#00FF08'}, 2:{color: 'blue'}, 3: {color: 'red'}, 4:{color: 'grey'}}
           colors:${clst}
         };
@@ -55,7 +57,8 @@
             var second = getUrlVars()["id2"];
             var q = getUrlVars()["q"];
            console.log("q ="+ q);
-            window.open('createDb?id='+q+'&db='+message,'Popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no, width=620,height=500,left=430,top=23');
+           var query = 'createDb?id='+q+'&db='+message+'&id1='+first+'&id2='+second;
+            window.open(query,'Popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no, width=620,height=500,left=430,top=23');
           }
      
 
@@ -72,7 +75,7 @@
     </script>
   </head>
   <body>
-    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+    <div id="chart_div" "></div>
     
     <div>${allR }</div>
   </body>

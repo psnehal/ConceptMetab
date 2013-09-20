@@ -1,0 +1,86 @@
+"14"	"25"	"49"	"60"	"75"	"84"	"119"	"165"	"309"	"569"	"2664"
+"neuronal cell body"	0	0	0	0	0	0	0	0	0	0	0
+"neuron projection"	0	0	0	0	0	0	0	0	0	0	0
+"cell projection"	0	0	0	0	0	0	0	0	0	0	0
+"mitochondrial part"	0	0	0	0	0	0	0	0	0	0	0
+"cell body"	0	0	0	0	0	0	0	0	0	0	0
+"mitochondrial matrix"	0	0	0	0	0	0	0	0	0	0	0
+"hydrolase activity acting on carbon-nitrogen (but not peptide) bonds"	1	0	0	0	0	0	0	0	0	0	0
+"glutamate binding"	1	1	0	0	0	0	0	1	0	0	0
+"digestive tract development"	1	0	0	0	0	0	0	0	0	0	0
+"ion homeostasis"	0	0	0	0	0	0	0	0	0	0	0
+"regulation of system process"	0	0	0	0	0	0	0	0	0	0	0
+"amide biosynthetic process"	1	1	0	0	0	0	0	0	0	0	0
+"cellular amide metabolic process"	1	1	0	0	0	0	0	0	0	0	0
+"cellular nitrogen compound biosynthetic process"	0	0	0	0	0	0	0	0	0	0	0
+"innate immune response"	0	0	0	0	0	0	0	0	0	0	0
+"positive regulation of vasodilation"	1	0	0	1	0	0	0	1	1	0	0
+"carboxylic acid catabolic process"	1	0	0	0	0	0	0	0	0	0	0
+"nitric oxide metabolic process"	1	0	0	0	0	0	0	0	0	0	0
+"macromolecular complex assembly"	1	0	0	0	0	0	0	0	0	0	0
+"hepaticobiliary system development"	1	0	0	0	0	0	0	0	0	0	0
+"protein complex biogenesis"	1	0	0	0	0	0	0	0	0	0	0
+"protein homotrimerization"	0	0	0	0	0	0	0	0	0	0	0
+"protein trimerization"	0	0	0	0	0	0	0	0	0	0	0
+"response to fatty acid"	1	0	0	0	0	0	0	0	0	0	0
+"cellular response to cytokine stimulus"	0	0	0	0	0	0	0	0	0	0	0
+"cellular response to lipopolysaccharide"	0	0	0	0	0	0	0	0	0	0	0
+"cellular response to molecule of bacterial origin"	0	0	0	0	0	0	0	0	0	0	0
+"cellular response to biotic stimulus"	0	0	0	0	0	0	0	0	0	0	0
+"cellular response to endogenous stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"cellular response to oleic acid"	1	0	0	0	0	0	0	1	0	0	1
+"cellular response to fatty acid"	1	0	0	0	0	0	0	1	0	0	0
+"cellular response to glucagon stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"cellular response to peptide hormone stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"cellular response to interferon-gamma"	0	0	1	1	0	0	0	0	1	0	1
+"protein complex subunit organization"	1	0	0	0	0	0	0	0	0	0	0
+"cellular response to transforming growth factor beta stimulus"	0	0	0	1	0	0	0	0	0	0	0
+"response to transforming growth factor beta stimulus"	0	0	0	1	0	0	0	0	0	0	0
+"cellular response to dexamethasone stimulus"	0	0	1	1	0	0	0	0	0	0	0
+"response to dexamethasone stimulus"	1	0	1	0	0	0	0	1	0	0	0
+"nitrogen cycle metabolic process"	1	1	0	0	0	0	0	0	0	0	0
+"regulation of blood vessel size"	0	0	0	0	0	0	0	0	0	0	0
+"protein homooligomerization"	1	0	0	0	0	0	0	0	0	0	0
+"response to cortisol stimulus"	0	0	1	1	0	0	0	0	0	0	0
+"mammary gland involution"	0	0	0	1	0	0	0	0	0	0	0
+"digestive system development"	1	0	0	0	0	0	0	0	0	0	0
+"anion homeostasis"	1	0	0	0	0	0	0	0	0	0	0
+"respiratory system development"	0	0	0	0	0	0	0	0	0	0	0
+"response to growth hormone stimulus"	1	0	0	0	0	0	0	1	0	0	0
+"mammary gland morphogenesis"	0	0	0	1	0	0	0	0	0	0	0
+"response to amine stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"organic acid catabolic process"	1	0	0	0	0	0	0	0	0	0	0
+"urea metabolic process"	1	1	0	0	0	0	0	0	0	0	0
+"regulation of vasodilation"	1	0	0	0	0	0	0	1	1	0	0
+"response to amino acid stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"response to peptide hormone stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"response to lipopolysaccharide"	1	0	0	0	0	0	0	0	0	0	0
+"response to glucagon stimulus"	1	0	0	0	0	0	0	0	0	0	0
+"response to interferon-gamma"	0	0	1	0	0	0	0	0	0	0	0
+"response to oleic acid"	1	0	0	0	0	0	0	1	0	0	0
+"regulation of tube size"	0	0	0	0	0	0	0	0	0	0	0
+"protein complex assembly"	1	0	0	0	0	0	0	0	0	0	0
+"cellular amino acid metabolic process"	0	0	0	0	0	0	0	0	0	0	0
+"arginine catabolic process"	0	0	0	1	1	0	1	0	1	0	0
+"arginine biosynthetic process"	0	1	1	0	0	0	1	1	1	0	1
+"arginine metabolic process"	0	1	1	0	0	0	1	0	0	0	0
+"ornithine metabolic process"	0	0	0	1	1	0	1	1	0	0	1
+"urea cycle"	1	1	0	0	0	0	0	0	0	0	0
+"response to acid"	1	0	0	0	0	0	0	0	0	0	0
+"liver development"	1	0	0	0	0	0	0	0	0	0	0
+"response to molecule of bacterial origin"	1	0	0	0	0	0	0	0	0	0	0
+"glutamine family amino acid biosynthetic process"	1	1	0	0	0	0	0	0	0	0	0
+"response to bacterium"	1	0	0	0	0	0	0	0	0	0	0
+"response to inorganic substance"	0	0	0	0	0	0	0	0	0	0	0
+"response to metal ion"	0	0	0	0	0	0	0	0	0	0	0
+"response to zinc ion"	1	0	0	0	0	0	0	0	0	0	0
+"response to organic nitrogen"	1	0	0	0	0	0	0	0	0	0	0
+"regulation of striated muscle contraction"	0	0	0	1	1	0	0	0	1	0	0
+"midgut development"	1	0	0	0	0	0	0	0	0	0	0
+"glutamine family amino acid catabolic process"	1	1	0	0	0	0	0	0	0	0	0
+"glutamine family amino acid metabolic process"	1	1	0	0	0	0	0	0	0	0	0
+"cellular amino acid catabolic process"	1	0	0	0	0	0	0	0	0	0	0
+"cellular amino acid biosynthetic process"	1	0	0	0	0	0	0	0	0	0	0
+"Arginine and proline metabolism"	0	0	0	0	0	0	0	0	0	0	0
+"Alanine aspartate and glutamate metabolism"	1	0	0	0	0	0	0	0	0	0	0
+"Nitrogen metabolism"	1	0	0	0	0	0	0	0	0	0	0

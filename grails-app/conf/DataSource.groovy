@@ -16,7 +16,9 @@ environments {
         dataSource {
            //  dbCreate = "update" // one of 'create', 'create-drop', 'update', 'validate', ''
             //url = "jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000"
-			url = "jdbc:mysql://127.0.0.1:33066/test?useUnicode=yes&characterEncoding=UTF-8"
+			//url = "jdbc:mysql://10.16.26.199:3306/test?useUnicode=yes&characterEncoding=UTF-8"
+			url = "jdbc:mysql://localhost/test?useUnicode=yes&characterEncoding=UTF-8"
+			//url = "jdbc:mysql://127.0.0.1:33066/test?useUnicode=yes&characterEncoding=UTF-8"
 			username = "snehal"
 			password = "snehal"
         }
@@ -29,19 +31,10 @@ environments {
     }
     production {
         dataSource {
-            dbCreate = "update"
-            url = "jdbc:h2:prodDb;MVCC=TRUE;LOCK_TIMEOUT=10000"
-            pooled = true
-            properties {
-               maxActive = -1
-               minEvictableIdleTimeMillis=1800000
-               timeBetweenEvictionRunsMillis=1800000
-               numTestsPerEvictionRun=3
-               testOnBorrow=true
-               testWhileIdle=true
-               testOnReturn=true
-               validationQuery="SELECT 1"
-            }
+			url = "jdbc:mysql://localhost/test?useUnicode=yes&characterEncoding=UTF-8"
+			//url = "jdbc:mysql://127.0.0.1:33066/test?useUnicode=yes&characterEncoding=UTF-8"
+			username = "snehal"
+			password = "snehal"
         }
     }
 }

@@ -1,11 +1,18 @@
 package conceptmetab
 
+import org.rosuda.REngine.*;
+
+
+
 import grails.converters.JSON
 
 import org.compass.core.converter.mapping.osem.ClassMappingConverter.IdsAliasesObjectKey;
 import org.springframework.dao.DataIntegrityViolationException
 
 class EnrichmentsController {
+	
+	//Injecting service in controller
+	def connectRService
 
 	static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
 
@@ -29,7 +36,7 @@ class EnrichmentsController {
 				("id2.id" == con.toInteger())
 		   }
 		   maxResults(100)
-			order("intersection")
+		order("intersection")
 		}
 	   
  //UNION select e.id1.id from conceptmetab.Enrichments  e where e.id2 =3460")
@@ -57,7 +64,8 @@ class EnrichmentsController {
 		def id1_inter 
 		def id2_inter
 		def result
-		println("From filter slider parameters a")		
+		println("From filter slider parameters a" + params)	
+		
 		HashMap jsonMap = new HashMap()
 		
 		println("its going for p and q filter")
@@ -84,11 +92,6 @@ class EnrichmentsController {
 		
 	 println("list of interactions = "+result.size() +" id1 = "+ id1_inter+"  id2 = "+ id2_inter+"  id  = "+ con +"  filter  = "+ filter)
 		
-	 if(result.size() == 0)
-	 {
-		 println("inside the zero con")
-		 flash.message = "${result.size()} No results found for search: ${params.id2}"
-	 }
 	 
 		if (params.containsKey("db"))
 		{
@@ -102,11 +105,7 @@ class EnrichmentsController {
 			
 		}
 		
-		def i1= result.collect{ ids -> return ids.id1.id.toString()}
-		def i2= result.collect{ ids -> return ids.id2.id.toString()}
-		def all = (i1+i2)
-		def ck = all.unique() as JSON
-		println("Array of concepts is"+ ck.toString())
+	
 		
 		def id1= result.collect{ ids -> return [id:ids.id1.id.toString()]}
 		def id2= result.collect{ ids -> return [id:ids.id2.id.toString()]}
@@ -115,7 +114,7 @@ class EnrichmentsController {
 		
 			
 			println(allids.sort())
-		def allR =allids.collect {ids -> return [id:ids.id,label:(Concepts.get(ids.id).getName()),comNo:(Concepts.get(ids.id).getNum_compounds()),conTypes:(Concepts.get(ids.id).concept_types.getName())]}
+		def allR =allids.collect {ids -> return [id:ids.id,label:(Concepts.get(ids.id).getName().capitalize()),comNo:(Concepts.get(ids.id).getNum_compounds()),conTypes:(Concepts.get(ids.id).concept_types.getName())]}
 	
 		//allids.add(con)
 		jsonMap.nodes = allR
@@ -128,7 +127,7 @@ class EnrichmentsController {
 	
 	   
 		def check = jsonMap as JSON
-	   [check:check]
+	   [check:check, resultcount : result.size()]
 	   
 	   /*def con = params.q.toLong();
 		println("parameter is"+con)
@@ -272,10 +271,13 @@ class EnrichmentsController {
 	def displayMsg()
 	{
 		def msg  = params.q;
-		println(msg)
+		println("id is"+msg)
 		ArrayList arM;
 	   //[msg:msg]
-		redirect(controller : "Concepts", action: "show", id: msg)
+			def conceptsInstance = Concepts.get(msg.toLong())
+		
+			println("got the instance")
+		[conceptsInstance: conceptsInstance]
 		
 	}
 //*****************************************************************DisplayEdge**************************************************************************
@@ -342,10 +344,11 @@ def displayJson(){
 		def id2= result.collect{ ids -> return [id:ids.id2.id.toString()]}
 		def allids = (id1+id2)
 		
-		def allR =allids.collect {ids -> return [id:ids.id,label:(Concepts.get(ids.id).getName()),comNo:(Concepts.get(ids.id).getNum_compounds()),conTypes:(Concepts.get(ids.id).concept_types.getName())]}
+		def allR =allids.collect {ids -> return [id:ids.id,label:(Concepts.get(ids.id).getName().capitalize()),comNo:(Concepts.get(ids.id).getNum_compounds()),conTypes:(Concepts.get(ids.id).concept_types.getName())]}
 		println(allids.sort())
 		//allids.add(con)
 		jsonMap.nodes = allR
+		println(allR.get(0))
 		
 		jsonMap.edges = result.collect {en ->
 			return [source: en.id1.id.toString(), target: en.id2.id.toString(),id: (en.pval.toString()),db_id: en.id.toString(),thick: (en.intersection),label: (Concepts.get(en.id1.id).getOriginal_id())]
@@ -444,7 +447,7 @@ def createDb(){
 	  }
 		 
 		
-		
+	 
 		 
 		 def emptyList = []
 		 map.each{ 
@@ -454,51 +457,51 @@ def createDb(){
 				
 				 def index =map.findIndexOf {it.key =='GOBP'}
 				
-				 emptyList.addAll(index, "red")
+				 emptyList.addAll(index, "#227207")
 			 }
 			 if(it.getKey().equals("GOCC"))
 			 {
 			
 				 def index =map.findIndexOf {it.key=='GOCC'}
 				
-				 emptyList.addAll(index, "yellow")
+				 emptyList.addAll(index, "#ff7f00")
 			 }
 			 if(it.getKey().equals("GOMF"))
 			 {
 				 
 				 def index =map.findIndexOf {it.key=='GOMF'}
 				
-				 emptyList.addAll(index, "green")
+				 emptyList.addAll(index, "#386EF2")
 			 }
 			 if(it.getKey().equals("Enzyme"))
 			 {
 				
 				 def index =map.findIndexOf {it.key=='Enzyme'}
 				 
-				 emptyList.addAll(index, "blue")
+				 emptyList.addAll(index, "#BE3A40")
 			 }
 			 if(it.getKey().equals("KEGG"))
 			 {
 				 
 				 def index =map.findIndexOf {it.key=='KEGG'}
 				
-				 emptyList.addAll(index, "purple")
+				 emptyList.addAll(index, "#CC2EFA")
 			 }
 			 if(it.getKey().equals("MeSH"))
 			 {
 				
 				 def index =map.findIndexOf {it.key=='MeSH'}
 			
-				 emptyList.addAll(index, "#CCCCFF")
+				 emptyList.addAll(index, "#a681db")
 			 }
 			 if(it.getKey().equals("Cluster"))
 			 {
 				 
 				 def index =map.findIndexOf {it.key=='Cluster'}
 			
-				 emptyList.addAll(index, "black")
+				 emptyList.addAll(index, "#ffab9b")
 			 }
-			 println("this is end of loop"+it.getKey())
+			
 		 }
 		 println('map at first  \n' + map)
 		
@@ -536,9 +539,30 @@ def createDb(){
 		 //render allR
 	 
  }
+ 
+ def createHeatmap()
+ {
+	 String idn = params.q.toString()
+	 def pdfFile = connectRService.createHeatmap(idn)
+	 
+	 [pdfFile:pdfFile]
+		  
+		  
+		  println("From controller"+pdfFile)
+		  
+		  //[result:result, b:b]
+	 }
+	 
+
+	 
+	 
+
 
 //***********************************************************LIST,CREATE,SAVE,SHOW,EDIT,UPDATE,DELETE**************************************************************************
-	def list(Integer max) {
+	
+ def list(Integer max) {
+	 
+	 
 		params.max = Math.min(max ?: 10, 100)
 		[enrichmentsInstanceList: Enrichments.list(params), enrichmentsInstanceTotal: Enrichments.count()]
 	}
